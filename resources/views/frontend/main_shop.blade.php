@@ -19,7 +19,7 @@
     <div class="boxed">
         <!-- /#site-header-wrap -->
 
-        @include('frontend.body.header_shop')
+        @include('frontend.body.header')
 
         <!-- End /#site-header-wrap -->
 
@@ -39,7 +39,7 @@
                                     <input type="submit" class="search-submit" value="Search">
                                 </form>
                             </div><!-- /.widget-search -->
-                            <h1 class="h2 pb-4">CATEGORIES</h1>
+                            <h1 class="h2 pb-4">Categories</h1>
                             <div id="jquery-accordion-menu" class="jquery-accordion-menu white">
                                 <div class="jquery-accordion-menu-header"></div>
                                 <ul>

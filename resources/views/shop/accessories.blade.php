@@ -1,8 +1,29 @@
-@extends('frontend.main_shop')
+@extends('frontend.main_master')
 
 @section('title', 'Accessories')
 
 @section('content')
+<!-- Page title -->
+<div class="page-title parallax parallax1">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="page-title-heading">
+                    <h1 class="title">Accessories</h1>
+                </div><!-- /.page-title-heading -->
+                <div class="breadcrumbs">
+                    <ul>
+                        <li><a href="/">Honda & Yamaha Specialists</a></li>
+                        <li><a href="/product-types">Product Types</a></li>
+                        <li><a href="/product-accessories">Accessories</a></li>
+                    </ul>
+                </div><!-- /.breadcrumbs -->
+            </div><!-- /.col-md-12 -->
+        </div><!-- /.row -->
+    </div><!-- /.container -->
+</div><!-- /.page-title -->
+
+@include('frontend.body.sidebar')
 
 <div class="col-md-9">
     <div class="filter-shop clearfix">

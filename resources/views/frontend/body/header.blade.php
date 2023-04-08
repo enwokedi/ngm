@@ -107,7 +107,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="/product-types">SHOP</a>
+                            <a href="/product-types">PRODUCTS</a>
                             <ul class="submenu">
                                 <li>
                                     <a href="/spare-parts">Spare Parts</a>
