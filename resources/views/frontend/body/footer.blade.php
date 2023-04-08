@@ -15,7 +15,7 @@
                     </ul>
                 </div><!-- /.widget -->
             </div><!-- /.col-md-3 -->
-            <div class="col-sm-6 col-md-2">
+            <div class="col-sm-6 col-md-3">
                 <div class="widget widget-link link-login">
                     <ul>
                         <li><a href="#">Terms & Conditions</a></li>
@@ -25,23 +25,10 @@
                     </ul>
                 </div><!-- /.widget -->
             </div><!-- /.col-md-3 -->
-            <div class="col-sm-6 col-md-4">
+            <div class="col-sm-6 col-md-3">
                 <div class="widget widget-brand">
                     <ul class="flat-contact">
-                        <li class="area">CATFORD</li>
-                        <li>
-                            <i class="fa fa-phone mx-2"></i>
-                            <a class="phone" href="tel:0208314498">0208 314 1498</a>
-                        </li>
-                        <li>
-                            <i class="fa fa-envelope mx-2"></i>
-                            <a class="email" href="mailto:info@neguinhomotors.co.uk">info@neguinhomotors.co.uk</a>
-                        </li>
-                        <li>
-                            <i class="fa fa-map-marker mx-2"></i>
-                            <a class="address">Unit 1179, 9 Catford Hill, London SE6 4NU</a>
-                        </li>
-                        <li class="phone"></li>
+                        <li class="area"></li>
                     </ul><!-- /.flat-contact -->
                 </div><!-- /.widget -->
             </div><!-- /.col-md-3 -->
