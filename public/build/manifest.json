@@ -1,0 +1,1578 @@
+{
+  "resources/fonts/FontAwesome.otf": {
+    "file": "assets/FontAwesome-ecd72f31.otf",
+    "src": "resources/fonts/FontAwesome.otf"
+  },
+  "resources/fonts/fontawesome-webfont.eot": {
+    "file": "assets/fontawesome-webfont-50bbe919.eot",
+    "src": "resources/fonts/fontawesome-webfont.eot"
+  },
+  "resources/fonts/fontawesome-webfont.svg": {
+    "file": "assets/fontawesome-webfont-8e358638.svg",
+    "src": "resources/fonts/fontawesome-webfont.svg"
+  },
+  "resources/fonts/fontawesome-webfont.ttf": {
+    "file": "assets/fontawesome-webfont-ae19e2e4.ttf",
+    "src": "resources/fonts/fontawesome-webfont.ttf"
+  },
+  "resources/fonts/fontawesome-webfont.woff": {
+    "file": "assets/fontawesome-webfont-adbc4f95.woff",
+    "src": "resources/fonts/fontawesome-webfont.woff"
+  },
+  "resources/fonts/fontawesome-webfont.woff2": {
+    "file": "assets/fontawesome-webfont-7dacf83f.woff2",
+    "src": "resources/fonts/fontawesome-webfont.woff2"
+  },
+  "resources/icon/favicon.png": {
+    "file": "assets/favicon-441af215.png",
+    "src": "resources/icon/favicon.png"
+  },
+  "resources/images/avatar-1.png": {
+    "file": "assets/avatar-1-c09971d4.png",
+    "src": "resources/images/avatar-1.png"
+  },
+  "resources/images/avatar.png": {
+    "file": "assets/avatar-2de399b8.png",
+    "src": "resources/images/avatar.png"
+  },
+  "resources/images/bg-countdown-1-962x506.jpg": {
+    "file": "assets/bg-countdown-1-962x506-e29cfb9e.jpg",
+    "src": "resources/images/bg-countdown-1-962x506.jpg"
+  },
+  "resources/images/blog/1.jpg": {
+    "file": "assets/1-2e92d4fb.jpg",
+    "src": "resources/images/blog/1.jpg"
+  },
+  "resources/images/blog/10.jpg": {
+    "file": "assets/10-c8673dbf.jpg",
+    "src": "resources/images/blog/10.jpg"
+  },
+  "resources/images/blog/11.jpg": {
+    "file": "assets/11-4d95b6d8.jpg",
+    "src": "resources/images/blog/11.jpg"
+  },
+  "resources/images/blog/12.jpg": {
+    "file": "assets/12-1f3456ca.jpg",
+    "src": "resources/images/blog/12.jpg"
+  },
+  "resources/images/blog/13.jpg": {
+    "file": "assets/13-fc34ea79.jpg",
+    "src": "resources/images/blog/13.jpg"
+  },
+  "resources/images/blog/14.jpg": {
+    "file": "assets/14-60d32143.jpg",
+    "src": "resources/images/blog/14.jpg"
+  },
+  "resources/images/blog/15.jpg": {
+    "file": "assets/15-44e49165.jpg",
+    "src": "resources/images/blog/15.jpg"
+  },
+  "resources/images/blog/16.jpg": {
+    "file": "assets/16-817258dc.jpg",
+    "src": "resources/images/blog/16.jpg"
+  },
+  "resources/images/blog/17.jpg": {
+    "file": "assets/17-b57a6793.jpg",
+    "src": "resources/images/blog/17.jpg"
+  },
+  "resources/images/blog/18.jpg": {
+    "file": "assets/18-0c52be0d.jpg",
+    "src": "resources/images/blog/18.jpg"
+  },
+  "resources/images/blog/19.jpg": {
+    "file": "assets/19-627a7eb5.jpg",
+    "src": "resources/images/blog/19.jpg"
+  },
+  "resources/images/blog/2.jpg": {
+    "file": "assets/2-25e31b97.jpg",
+    "src": "resources/images/blog/2.jpg"
+  },
+  "resources/images/blog/20.jpg": {
+    "file": "assets/20-5309fd2d.jpg",
+    "src": "resources/images/blog/20.jpg"
+  },
+  "resources/images/blog/21.jpg": {
+    "file": "assets/21-b640f99f.jpg",
+    "src": "resources/images/blog/21.jpg"
+  },
+  "resources/images/blog/3.jpg": {
+    "file": "assets/3-0d1811a8.jpg",
+    "src": "resources/images/blog/3.jpg"
+  },
+  "resources/images/blog/4.jpg": {
+    "file": "assets/4-cbdf8b06.jpg",
+    "src": "resources/images/blog/4.jpg"
+  },
+  "resources/images/blog/5.jpg": {
+    "file": "assets/5-419372e1.jpg",
+    "src": "resources/images/blog/5.jpg"
+  },
+  "resources/images/blog/6.jpg": {
+    "file": "assets/6-975b0e10.jpg",
+    "src": "resources/images/blog/6.jpg"
+  },
+  "resources/images/blog/7.jpg": {
+    "file": "assets/7-19f5f813.jpg",
+    "src": "resources/images/blog/7.jpg"
+  },
+  "resources/images/blog/8.jpg": {
+    "file": "assets/8-18f33ab2.jpg",
+    "src": "resources/images/blog/8.jpg"
+  },
+  "resources/images/blog/9.jpg": {
+    "file": "assets/9-2e031273.jpg",
+    "src": "resources/images/blog/9.jpg"
+  },
+  "resources/images/blog/comment1-1.png": {
+    "file": "assets/comment1-1-2c469ea5.png",
+    "src": "resources/images/blog/comment1-1.png"
+  },
+  "resources/images/blog/comment1.png": {
+    "file": "assets/comment1-240509d7.png",
+    "src": "resources/images/blog/comment1.png"
+  },
+  "resources/images/blog/comment2.png": {
+    "file": "assets/comment2-2216c199.png",
+    "src": "resources/images/blog/comment2.png"
+  },
+  "resources/images/blog/new-lastest-1-370x280.jpg": {
+    "file": "assets/new-lastest-1-370x280-c1d1d23a.jpg",
+    "src": "resources/images/blog/new-lastest-1-370x280.jpg"
+  },
+  "resources/images/blog/new-lastest-2-370x280.jpg": {
+    "file": "assets/new-lastest-2-370x280-37b7a46e.jpg",
+    "src": "resources/images/blog/new-lastest-2-370x280.jpg"
+  },
+  "resources/images/blog/new-lastest-3-370x280.jpg": {
+    "file": "assets/new-lastest-3-370x280-9ff09c37.jpg",
+    "src": "resources/images/blog/new-lastest-3-370x280.jpg"
+  },
+  "resources/images/blog/new-lastest-4-370x280.jpg": {
+    "file": "assets/new-lastest-4-370x280-e76ae49a.jpg",
+    "src": "resources/images/blog/new-lastest-4-370x280.jpg"
+  },
+  "resources/images/blog/new-lastest-5-370x280.jpg": {
+    "file": "assets/new-lastest-5-370x280-90e653c1.jpg",
+    "src": "resources/images/blog/new-lastest-5-370x280.jpg"
+  },
+  "resources/images/blog/new-lastest-6-370x280.jpg": {
+    "file": "assets/new-lastest-6-370x280-fdf60172.jpg",
+    "src": "resources/images/blog/new-lastest-6-370x280.jpg"
+  },
+  "resources/images/blog/new-lastest-7-370x280.jpg": {
+    "file": "assets/new-lastest-7-370x280-ef10ea9b.jpg",
+    "src": "resources/images/blog/new-lastest-7-370x280.jpg"
+  },
+  "resources/images/blog/new-lastest-8-370x280.jpg": {
+    "file": "assets/new-lastest-8-370x280-ef1ae0a2.jpg",
+    "src": "resources/images/blog/new-lastest-8-370x280.jpg"
+  },
+  "resources/images/blog/new-lastest-9-370x280.jpg": {
+    "file": "assets/new-lastest-9-370x280-4675b0cd.jpg",
+    "src": "resources/images/blog/new-lastest-9-370x280.jpg"
+  },
+  "resources/images/blog/search_icon.png": {
+    "file": "assets/search_icon-1b672f46.png",
+    "src": "resources/images/blog/search_icon.png"
+  },
+  "resources/images/gallery/gallery-1-870x377.jpg": {
+    "file": "assets/gallery-1-870x377-258628be.jpg",
+    "src": "resources/images/gallery/gallery-1-870x377.jpg"
+  },
+  "resources/images/gallery/gallery-2-870x377.jpg": {
+    "file": "assets/gallery-2-870x377-f0df1e66.jpg",
+    "src": "resources/images/gallery/gallery-2-870x377.jpg"
+  },
+  "resources/images/home/a-technician-repairs-the-motorcycle-at-the-service-2022-11-16-12-53-25-utc.jpg": {
+    "file": "assets/a-technician-repairs-the-motorcycle-at-the-service-2022-11-16-12-53-25-utc-5bc9a7d7.jpg",
+    "src": "resources/images/home/a-technician-repairs-the-motorcycle-at-the-service-2022-11-16-12-53-25-utc.jpg"
+  },
+  "resources/images/home/accidents.jpg": {
+    "file": "assets/accidents-7ca6fdbe.jpg",
+    "src": "resources/images/home/accidents.jpg"
+  },
+  "resources/images/home/closeup-of-smartphone-with-gps-application-2021-08-27-09-37-10-utc.jpg": {
+    "file": "assets/closeup-of-smartphone-with-gps-application-2021-08-27-09-37-10-utc-a60e2e80.jpg",
+    "src": "resources/images/home/closeup-of-smartphone-with-gps-application-2021-08-27-09-37-10-utc.jpg"
+  },
+  "resources/images/home/for-sale.jpg": {
+    "file": "assets/for-sale-e639719e.jpg",
+    "src": "resources/images/home/for-sale.jpg"
+  },
+  "resources/images/home/gps-tracker.jpg": {
+    "file": "assets/gps-tracker-bb06941e.jpg",
+    "src": "resources/images/home/gps-tracker.jpg"
+  },
+  "resources/images/home/hires-rentals.jpg": {
+    "file": "assets/hires-rentals-bd6081e4.jpg",
+    "src": "resources/images/home/hires-rentals.jpg"
+  },
+  "resources/images/home/imgbox-1-455x455.jpg": {
+    "file": "assets/imgbox-1-455x455-f3e801c5.jpg",
+    "src": "resources/images/home/imgbox-1-455x455.jpg"
+  },
+  "resources/images/home/imgbox-1a-455x455.jpg": {
+    "file": "assets/imgbox-1a-455x455-8b7ce0b8.jpg",
+    "src": "resources/images/home/imgbox-1a-455x455.jpg"
+  },
+  "resources/images/home/products.jpg": {
+    "file": "assets/products-5e4d5128.jpg",
+    "src": "resources/images/home/products.jpg"
+  },
+  "resources/images/home/products610x377.jpg": {
+    "file": "assets/products610x377-67547e43.jpg",
+    "src": "resources/images/home/products610x377.jpg"
+  },
+  "resources/images/home/rentals.jpg": {
+    "file": "assets/rentals-eb402252.jpg",
+    "src": "resources/images/home/rentals.jpg"
+  },
+  "resources/images/home/services.jpg": {
+    "file": "assets/services-541151c6.jpg",
+    "src": "resources/images/home/services.jpg"
+  },
+  "resources/images/home/spare-parts.jpg": {
+    "file": "assets/spare-parts-1492f280.jpg",
+    "src": "resources/images/home/spare-parts.jpg"
+  },
+  "resources/images/home/tyres.jpg": {
+    "file": "assets/tyres-f08c6a17.jpg",
+    "src": "resources/images/home/tyres.jpg"
+  },
+  "resources/images/icon.png": {
+    "file": "assets/icon-966b0468.png",
+    "src": "resources/img/icon.png"
+  },
+  "resources/images/image-box/imgbox-1-1173x620.jpg": {
+    "file": "assets/imgbox-1-1173x620-3e212ae7.jpg",
+    "src": "resources/images/image-box/imgbox-1-1173x620.jpg"
+  },
+  "resources/images/image-box/imgbox-1-277x277.jpg": {
+    "file": "assets/imgbox-1-277x277-ca1b8ee3.jpg",
+    "src": "resources/images/image-box/imgbox-1-277x277.jpg"
+  },
+  "resources/images/image-box/imgbox-1-370x270.jpg": {
+    "file": "assets/imgbox-1-370x270-6855c362.jpg",
+    "src": "resources/images/image-box/imgbox-1-370x270.jpg"
+  },
+  "resources/images/image-box/imgbox-1-370x370.jpg": {
+    "file": "assets/imgbox-1-370x370-97addfda.jpg",
+    "src": "resources/images/image-box/imgbox-1-370x370.jpg"
+  },
+  "resources/images/image-box/imgbox-1-375x240.jpg": {
+    "file": "assets/imgbox-1-375x240-1b319dab.jpg",
+    "src": "resources/images/image-box/imgbox-1-375x240.jpg"
+  },
+  "resources/images/image-box/imgbox-1-375x500.jpg": {
+    "file": "assets/imgbox-1-375x500-8ed34388.jpg",
+    "src": "resources/images/image-box/imgbox-1-375x500.jpg"
+  },
+  "resources/images/image-box/imgbox-1-450x320.jpg": {
+    "file": "assets/imgbox-1-450x320-4ae814b2.jpg",
+    "src": "resources/images/image-box/imgbox-1-450x320.jpg"
+  },
+  "resources/images/image-box/imgbox-1-455x455.jpg": {
+    "file": "assets/imgbox-1-455x455-03c462d3.jpg",
+    "src": "resources/images/image-box/imgbox-1-455x455.jpg"
+  },
+  "resources/images/image-box/imgbox-1-575x277.jpg": {
+    "file": "assets/imgbox-1-575x277-ae097fe2.jpg",
+    "src": "resources/images/image-box/imgbox-1-575x277.jpg"
+  },
+  "resources/images/image-box/imgbox-1-575x575.jpg": {
+    "file": "assets/imgbox-1-575x575-529b58a6.jpg",
+    "src": "resources/images/image-box/imgbox-1-575x575.jpg"
+  },
+  "resources/images/image-box/imgbox-1-576x300.jpg": {
+    "file": "assets/imgbox-1-576x300-e88824dc.jpg",
+    "src": "resources/images/image-box/imgbox-1-576x300.jpg"
+  },
+  "resources/images/image-box/imgbox-1-610x377.jpg": {
+    "file": "assets/imgbox-1-610x377-9bb5f338.jpg",
+    "src": "resources/images/image-box/imgbox-1-610x377.jpg"
+  },
+  "resources/images/image-box/imgbox-1-930x930.jpg": {
+    "file": "assets/imgbox-1-930x930-96a2b917.jpg",
+    "src": "resources/images/image-box/imgbox-1-930x930.jpg"
+  },
+  "resources/images/image-box/imgbox-1-960x800.jpg": {
+    "file": "assets/imgbox-1-960x800-610ea94e.jpg",
+    "src": "resources/images/image-box/imgbox-1-960x800.jpg"
+  },
+  "resources/images/image-box/imgbox-2-277x277.jpg": {
+    "file": "assets/imgbox-2-277x277-a7bfe570.jpg",
+    "src": "resources/images/image-box/imgbox-2-277x277.jpg"
+  },
+  "resources/images/image-box/imgbox-2-370x270.jpg": {
+    "file": "assets/imgbox-2-370x270-802d898f.jpg",
+    "src": "resources/images/image-box/imgbox-2-370x270.jpg"
+  },
+  "resources/images/image-box/imgbox-2-370x370.jpg": {
+    "file": "assets/imgbox-2-370x370-17538597.jpg",
+    "src": "resources/images/image-box/imgbox-2-370x370.jpg"
+  },
+  "resources/images/image-box/imgbox-2-375x240.jpg": {
+    "file": "assets/imgbox-2-375x240-aca69b85.jpg",
+    "src": "resources/images/image-box/imgbox-2-375x240.jpg"
+  },
+  "resources/images/image-box/imgbox-2-375x500.jpg": {
+    "file": "assets/imgbox-2-375x500-0d541cdd.jpg",
+    "src": "resources/images/image-box/imgbox-2-375x500.jpg"
+  },
+  "resources/images/image-box/imgbox-2-450x320.jpg": {
+    "file": "assets/imgbox-2-450x320-63e57f09.jpg",
+    "src": "resources/images/image-box/imgbox-2-450x320.jpg"
+  },
+  "resources/images/image-box/imgbox-2-455x455.jpg": {
+    "file": "assets/imgbox-2-455x455-2d93e326.jpg",
+    "src": "resources/images/image-box/imgbox-2-455x455.jpg"
+  },
+  "resources/images/image-box/imgbox-2-575x575.jpg": {
+    "file": "assets/imgbox-2-575x575-73eaecd6.jpg",
+    "src": "resources/images/image-box/imgbox-2-575x575.jpg"
+  },
+  "resources/images/image-box/imgbox-2-576x300.jpg": {
+    "file": "assets/imgbox-2-576x300-be1e246b.jpg",
+    "src": "resources/images/image-box/imgbox-2-576x300.jpg"
+  },
+  "resources/images/image-box/imgbox-2-610x377.jpg": {
+    "file": "assets/imgbox-2-610x377-279e2e73.jpg",
+    "src": "resources/images/image-box/imgbox-2-610x377.jpg"
+  },
+  "resources/images/image-box/imgbox-2-960x800.jpg": {
+    "file": "assets/imgbox-2-960x800-c486f234.jpg",
+    "src": "resources/images/image-box/imgbox-2-960x800.jpg"
+  },
+  "resources/images/image-box/imgbox-3-370x270.jpg": {
+    "file": "assets/imgbox-3-370x270-c74e442e.jpg",
+    "src": "resources/images/image-box/imgbox-3-370x270.jpg"
+  },
+  "resources/images/image-box/imgbox-3-370x370.jpg": {
+    "file": "assets/imgbox-3-370x370-257c583f.jpg",
+    "src": "resources/images/image-box/imgbox-3-370x370.jpg"
+  },
+  "resources/images/image-box/imgbox-3-450x320.jpg": {
+    "file": "assets/imgbox-3-450x320-821854ff.jpg",
+    "src": "resources/images/image-box/imgbox-3-450x320.jpg"
+  },
+  "resources/images/image-box/imgbox-3-455x455.jpg": {
+    "file": "assets/imgbox-3-455x455-4f196a37.jpg",
+    "src": "resources/images/image-box/imgbox-3-455x455.jpg"
+  },
+  "resources/images/image-box/imgbox-3-576x300.jpg": {
+    "file": "assets/imgbox-3-576x300-fb41cd93.jpg",
+    "src": "resources/images/image-box/imgbox-3-576x300.jpg"
+  },
+  "resources/images/image-box/imgbox-3-610x377.jpg": {
+    "file": "assets/imgbox-3-610x377-9661a3b5.jpg",
+    "src": "resources/images/image-box/imgbox-3-610x377.jpg"
+  },
+  "resources/images/image-box/imgbox-3-960x800.jpg": {
+    "file": "assets/imgbox-3-960x800-4afaccd3.jpg",
+    "src": "resources/images/image-box/imgbox-3-960x800.jpg"
+  },
+  "resources/images/image-box/imgbox-4-370x370.jpg": {
+    "file": "assets/imgbox-4-370x370-9dc4cd43.jpg",
+    "src": "resources/images/image-box/imgbox-4-370x370.jpg"
+  },
+  "resources/images/image-box/imgbox-4-455x455.jpg": {
+    "file": "assets/imgbox-4-455x455-8f66e024.jpg",
+    "src": "resources/images/image-box/imgbox-4-455x455.jpg"
+  },
+  "resources/images/image-box/imgbox-4-576x300.jpg": {
+    "file": "assets/imgbox-4-576x300-da8ab2c4.jpg",
+    "src": "resources/images/image-box/imgbox-4-576x300.jpg"
+  },
+  "resources/images/image-box/imgbox-4-960x800.jpg": {
+    "file": "assets/imgbox-4-960x800-171303f5.jpg",
+    "src": "resources/images/image-box/imgbox-4-960x800.jpg"
+  },
+  "resources/images/image-box/imgbox-5-370x370.jpg": {
+    "file": "assets/imgbox-5-370x370-af58f16d.jpg",
+    "src": "resources/images/image-box/imgbox-5-370x370.jpg"
+  },
+  "resources/images/image-box/imgbox-5-576x300.jpg": {
+    "file": "assets/imgbox-5-576x300-be50fe2c.jpg",
+    "src": "resources/images/image-box/imgbox-5-576x300.jpg"
+  },
+  "resources/images/image-box/imgbox-6-370x370.jpg": {
+    "file": "assets/imgbox-6-370x370-79a053a4.jpg",
+    "src": "resources/images/image-box/imgbox-6-370x370.jpg"
+  },
+  "resources/images/image-box/tyres-imgbox-1-455x455.jpg": {
+    "file": "assets/tyres-imgbox-1-455x455-aa6a484d.jpg",
+    "src": "resources/images/image-box/tyres-imgbox-1-455x455.jpg"
+  },
+  "resources/images/image-box/tyres-imgbox-1-930x930.jpg": {
+    "file": "assets/tyres-imgbox-1-930x930-bf1fa169.jpg",
+    "src": "resources/images/image-box/tyres-imgbox-1-930x930.jpg"
+  },
+  "resources/images/imgbox-1-455x455.jpg": {
+    "file": "assets/imgbox-1-455x455-08da9353.jpg",
+    "src": "resources/images/imgbox-1-455x455.jpg"
+  },
+  "resources/images/instagram/instagram-1-337x280.jpg": {
+    "file": "assets/instagram-1-337x280-ec274aa1.jpg",
+    "src": "resources/images/instagram/instagram-1-337x280.jpg"
+  },
+  "resources/images/instagram/instagram-2-337x280.jpg": {
+    "file": "assets/instagram-2-337x280-d5483fdd.jpg",
+    "src": "resources/images/instagram/instagram-2-337x280.jpg"
+  },
+  "resources/images/instagram/instagram-3-337x280.jpg": {
+    "file": "assets/instagram-3-337x280-25bd3d28.jpg",
+    "src": "resources/images/instagram/instagram-3-337x280.jpg"
+  },
+  "resources/images/instagram/instagram-4-337x280.jpg": {
+    "file": "assets/instagram-4-337x280-6ac5659c.jpg",
+    "src": "resources/images/instagram/instagram-4-337x280.jpg"
+  },
+  "resources/images/instagram/instagram-5-337x280.jpg": {
+    "file": "assets/instagram-5-337x280-25e9f675.jpg",
+    "src": "resources/images/instagram/instagram-5-337x280.jpg"
+  },
+  "resources/images/logo.png": {
+    "file": "assets/icon-966b0468.png",
+    "src": "resources/img/icon.png"
+  },
+  "resources/images/logo@2x.png": {
+    "file": "assets/logo@2x-2fc445d3.png",
+    "src": "resources/images/logo@2x.png"
+  },
+  "resources/images/maps/map_icon.png": {
+    "file": "assets/map_icon-de7af0bb.png",
+    "src": "resources/images/maps/map_icon.png"
+  },
+  "resources/images/mega-menu/1.jpg": {
+    "file": "assets/1-3dc410e0.jpg",
+    "src": "resources/images/mega-menu/1.jpg"
+  },
+  "resources/images/parallax/bg-parallax1.jpg": {
+    "file": "assets/bg-parallax1-82ab4d77.jpg",
+    "src": "resources/images/parallax/bg-parallax1.jpg"
+  },
+  "resources/images/parallax/bg-parallax2.jpg": {
+    "file": "assets/bg-parallax2-7b0ac744.jpg",
+    "src": "resources/images/parallax/bg-parallax2.jpg"
+  },
+  "resources/images/parallax/bg-parallax3.jpg": {
+    "file": "assets/bg-parallax3-33b6bcda.jpg",
+    "src": "resources/images/parallax/bg-parallax3.jpg"
+  },
+  "resources/images/parallax/bg-parallax4.jpg": {
+    "file": "assets/bg-parallax4-104e3fac.jpg",
+    "src": "resources/images/parallax/bg-parallax4.jpg"
+  },
+  "resources/images/pattern/1.png": {
+    "file": "assets/1-834e5607.png",
+    "src": "resources/images/pattern/1.png"
+  },
+  "resources/images/pattern/10.png": {
+    "file": "assets/10-014bb02d.png",
+    "src": "resources/images/pattern/10.png"
+  },
+  "resources/images/pattern/2.png": {
+    "file": "assets/2-196665a6.png",
+    "src": "resources/images/pattern/2.png"
+  },
+  "resources/images/pattern/3.png": {
+    "file": "assets/3-816ddf89.png",
+    "src": "resources/images/pattern/3.png"
+  },
+  "resources/images/pattern/4.png": {
+    "file": "assets/4-ac923c62.png",
+    "src": "resources/images/pattern/4.png"
+  },
+  "resources/images/pattern/5.png": {
+    "file": "assets/5-7b6b7a21.png",
+    "src": "resources/images/pattern/5.png"
+  },
+  "resources/images/pattern/6.png": {
+    "file": "assets/6-c21d47eb.png",
+    "src": "resources/images/pattern/6.png"
+  },
+  "resources/images/pattern/7.png": {
+    "file": "assets/7-25c3a9a5.png",
+    "src": "resources/images/pattern/7.png"
+  },
+  "resources/images/pattern/8.png": {
+    "file": "assets/8-5a0755b9.png",
+    "src": "resources/images/pattern/8.png"
+  },
+  "resources/images/pattern/9.png": {
+    "file": "assets/9-fa1a7cce.png",
+    "src": "resources/images/pattern/9.png"
+  },
+  "resources/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_100.jpg": {
+    "file": "assets/2021-Honda-PCX125-Scooter-review-details-price-spec_100-2399b5be.jpg",
+    "src": "resources/images/rentals/rental-details/2021-Honda-PCX125-Scooter-review-details-price-spec_100.jpg"
+  },
+  "resources/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_101.jpg": {
+    "file": "assets/2021-Honda-PCX125-Scooter-review-details-price-spec_101-b44808d0.jpg",
+    "src": "resources/images/rentals/rental-details/2021-Honda-PCX125-Scooter-review-details-price-spec_101.jpg"
+  },
+  "resources/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_102.jpg": {
+    "file": "assets/2021-Honda-PCX125-Scooter-review-details-price-spec_102-0f75c705.jpg",
+    "src": "resources/images/rentals/rental-details/2021-Honda-PCX125-Scooter-review-details-price-spec_102.jpg"
+  },
+  "resources/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_103.jpg": {
+    "file": "assets/2021-Honda-PCX125-Scooter-review-details-price-spec_103-e22d9f22.jpg",
+    "src": "resources/images/rentals/rental-details/2021-Honda-PCX125-Scooter-review-details-price-spec_103.jpg"
+  },
+  "resources/images/rentals/2022-Yamaha-YZF1000R1-EU-Icon_Blue-Studio-001-03.jpg": {
+    "file": "assets/2022-Yamaha-YZF1000R1-EU-Icon_Blue-Studio-001-03-fa177ae5.jpg",
+    "src": "resources/images/rentals/2022-Yamaha-YZF1000R1-EU-Icon_Blue-Studio-001-03.jpg"
+  },
+  "resources/images/rentals/2022-Yamaha-YZF1000R1-EU-Yamaha_Black-Studio-001-03.jpg": {
+    "file": "assets/2022-Yamaha-YZF1000R1-EU-Yamaha_Black-Studio-001-03-9ad990ef.jpg",
+    "src": "resources/images/rentals/2022-Yamaha-YZF1000R1-EU-Yamaha_Black-Studio-001-03.jpg"
+  },
+  "resources/images/rentals/2023-Yamaha-G125YM-EU-Deep_Blue-Studio-001-03.jpg": {
+    "file": "assets/2023-Yamaha-G125YM-EU-Deep_Blue-Studio-001-03-ec5e4938.jpg",
+    "src": "resources/images/rentals/2023-Yamaha-G125YM-EU-Deep_Blue-Studio-001-03.jpg"
+  },
+  "resources/images/rentals/2023-Yamaha-G125YM-EU-Milky_White-Studio-001-03.jpg": {
+    "file": "assets/2023-Yamaha-G125YM-EU-Milky_White-Studio-001-03-aff35b59.jpg",
+    "src": "resources/images/rentals/2023-Yamaha-G125YM-EU-Milky_White-Studio-001-03.jpg"
+  },
+  "resources/images/rentals/2023-Yamaha-G125YM-EU-Ruby_Red-Studio-001-03.jpg": {
+    "file": "assets/2023-Yamaha-G125YM-EU-Ruby_Red-Studio-001-03-949d88c7.jpg",
+    "src": "resources/images/rentals/2023-Yamaha-G125YM-EU-Ruby_Red-Studio-001-03.jpg"
+  },
+  "resources/images/rentals/2023-Yamaha-MT125-EU-Icon_Blue_-Studio-001-03.jpg": {
+    "file": "assets/2023-Yamaha-MT125-EU-Icon_Blue_-Studio-001-03-a21866b3.jpg",
+    "src": "resources/images/rentals/2023-Yamaha-MT125-EU-Icon_Blue_-Studio-001-03.jpg"
+  },
+  "resources/images/rentals/detail-desc/2021-Honda-PCX125-Scooter-review-details-price-spec_100.jpg": {
+    "file": "assets/2021-Honda-PCX125-Scooter-review-details-price-spec_100-3c35a69a.jpg",
+    "src": "resources/images/rentals/detail-desc/2021-Honda-PCX125-Scooter-review-details-price-spec_100.jpg"
+  },
+  "resources/images/rentals/detail-desc/2021-Honda-PCX125-Scooter-review-details-price-spec_101.jpg": {
+    "file": "assets/2021-Honda-PCX125-Scooter-review-details-price-spec_101-973b5fda.jpg",
+    "src": "resources/images/rentals/detail-desc/2021-Honda-PCX125-Scooter-review-details-price-spec_101.jpg"
+  },
+  "resources/images/rentals/detail-desc/2021-Honda-PCX125-Scooter-review-details-price-spec_102.jpg": {
+    "file": "assets/2021-Honda-PCX125-Scooter-review-details-price-spec_102-f5527e36.jpg",
+    "src": "resources/images/rentals/detail-desc/2021-Honda-PCX125-Scooter-review-details-price-spec_102.jpg"
+  },
+  "resources/images/rentals/detail-desc/2021-Honda-PCX125-Scooter-review-details-price-spec_103.jpg": {
+    "file": "assets/2021-Honda-PCX125-Scooter-review-details-price-spec_103-3df175b2.jpg",
+    "src": "resources/images/rentals/detail-desc/2021-Honda-PCX125-Scooter-review-details-price-spec_103.jpg"
+  },
+  "resources/images/rentals/detail-thumb/2021-Honda-PCX125-Scooter-review-details-price-spec_100.jpg": {
+    "file": "assets/2021-Honda-PCX125-Scooter-review-details-price-spec_100-fa95bc1c.jpg",
+    "src": "resources/images/rentals/detail-thumb/2021-Honda-PCX125-Scooter-review-details-price-spec_100.jpg"
+  },
+  "resources/images/rentals/detail-thumb/2021-Honda-PCX125-Scooter-review-details-price-spec_101.jpg": {
+    "file": "assets/2021-Honda-PCX125-Scooter-review-details-price-spec_101-84679f3d.jpg",
+    "src": "resources/images/rentals/detail-thumb/2021-Honda-PCX125-Scooter-review-details-price-spec_101.jpg"
+  },
+  "resources/images/rentals/detail-thumb/2021-Honda-PCX125-Scooter-review-details-price-spec_102.jpg": {
+    "file": "assets/2021-Honda-PCX125-Scooter-review-details-price-spec_102-a20471f3.jpg",
+    "src": "resources/images/rentals/detail-thumb/2021-Honda-PCX125-Scooter-review-details-price-spec_102.jpg"
+  },
+  "resources/images/rentals/detail-thumb/2021-Honda-PCX125-Scooter-review-details-price-spec_103.jpg": {
+    "file": "assets/2021-Honda-PCX125-Scooter-review-details-price-spec_103-3987f8aa.jpg",
+    "src": "resources/images/rentals/detail-thumb/2021-Honda-PCX125-Scooter-review-details-price-spec_103.jpg"
+  },
+  "resources/images/rentals/detail/2021-Honda-PCX125-Scooter-review-details-price-spec_100.jpg": {
+    "file": "assets/2021-Honda-PCX125-Scooter-review-details-price-spec_100-00d1a726.jpg",
+    "src": "resources/images/rentals/detail/2021-Honda-PCX125-Scooter-review-details-price-spec_100.jpg"
+  },
+  "resources/images/rentals/detail/2021-Honda-PCX125-Scooter-review-details-price-spec_101.jpg": {
+    "file": "assets/2021-Honda-PCX125-Scooter-review-details-price-spec_101-54690a83.jpg",
+    "src": "resources/images/rentals/detail/2021-Honda-PCX125-Scooter-review-details-price-spec_101.jpg"
+  },
+  "resources/images/rentals/detail/2021-Honda-PCX125-Scooter-review-details-price-spec_102.jpg": {
+    "file": "assets/2021-Honda-PCX125-Scooter-review-details-price-spec_102-30ee5edd.jpg",
+    "src": "resources/images/rentals/detail/2021-Honda-PCX125-Scooter-review-details-price-spec_102.jpg"
+  },
+  "resources/images/rentals/detail/2021-Honda-PCX125-Scooter-review-details-price-spec_103.jpg": {
+    "file": "assets/2021-Honda-PCX125-Scooter-review-details-price-spec_103-b59532be.jpg",
+    "src": "resources/images/rentals/detail/2021-Honda-PCX125-Scooter-review-details-price-spec_103.jpg"
+  },
+  "resources/images/rentals/honda-africa-twin-1100.jpg": {
+    "file": "assets/honda-africa-twin-1100-3442bee4.jpg",
+    "src": "resources/images/rentals/honda-africa-twin-1100.jpg"
+  },
+  "resources/images/rentals/honda-nc-750x.jpg": {
+    "file": "assets/honda-nc-750x-273b5aa2.jpg",
+    "src": "resources/images/rentals/honda-nc-750x.jpg"
+  },
+  "resources/images/rentals/honda-pcx-125.jpg": {
+    "file": "assets/honda-pcx-125-6ca4c469.jpg",
+    "src": "resources/images/rentals/honda-pcx-125.jpg"
+  },
+  "resources/images/rentals/rental-details/2021-Honda-PCX125-Scooter-review-details-price-spec_100.jpg": {
+    "file": "assets/2021-Honda-PCX125-Scooter-review-details-price-spec_100-2399b5be.jpg",
+    "src": "resources/images/rentals/rental-details/2021-Honda-PCX125-Scooter-review-details-price-spec_100.jpg"
+  },
+  "resources/images/rentals/rental-details/2021-Honda-PCX125-Scooter-review-details-price-spec_101.jpg": {
+    "file": "assets/2021-Honda-PCX125-Scooter-review-details-price-spec_101-b44808d0.jpg",
+    "src": "resources/images/rentals/rental-details/2021-Honda-PCX125-Scooter-review-details-price-spec_101.jpg"
+  },
+  "resources/images/rentals/rental-details/2021-Honda-PCX125-Scooter-review-details-price-spec_102.jpg": {
+    "file": "assets/2021-Honda-PCX125-Scooter-review-details-price-spec_102-0f75c705.jpg",
+    "src": "resources/images/rentals/rental-details/2021-Honda-PCX125-Scooter-review-details-price-spec_102.jpg"
+  },
+  "resources/images/rentals/rental-details/2021-Honda-PCX125-Scooter-review-details-price-spec_103.jpg": {
+    "file": "assets/2021-Honda-PCX125-Scooter-review-details-price-spec_103-e22d9f22.jpg",
+    "src": "resources/images/rentals/rental-details/2021-Honda-PCX125-Scooter-review-details-price-spec_103.jpg"
+  },
+  "resources/images/services/accident.jpg": {
+    "file": "assets/accident-525f97a9.jpg",
+    "src": "resources/images/services/accident.jpg"
+  },
+  "resources/images/services/book-mot.jpg": {
+    "file": "assets/book-mot-bbf0b36b.jpg",
+    "src": "resources/images/services/book-mot.jpg"
+  },
+  "resources/images/services/book-mot.png": {
+    "file": "assets/book-mot-0ebd979d.png",
+    "src": "resources/images/services/book-mot.png"
+  },
+  "resources/images/services/book-service.jpg": {
+    "file": "assets/book-service-1c46aba7.jpg",
+    "src": "resources/images/services/book-service.jpg"
+  },
+  "resources/images/services/repairs.jpg": {
+    "file": "assets/repairs-7e680669.jpg",
+    "src": "resources/images/services/repairs.jpg"
+  },
+  "resources/images/shop/s-01.jpg": {
+    "file": "assets/s-01-663eda0f.jpg",
+    "src": "resources/images/shop/s-01.jpg"
+  },
+  "resources/images/shop/s-02.jpg": {
+    "file": "assets/s-02-d76b2c22.jpg",
+    "src": "resources/images/shop/s-02.jpg"
+  },
+  "resources/images/shop/s-03.jpg": {
+    "file": "assets/s-03-f4ce4b80.jpg",
+    "src": "resources/images/shop/s-03.jpg"
+  },
+  "resources/images/shop/sh-3/1.jpg": {
+    "file": "assets/1-ebba89bc.jpg",
+    "src": "resources/images/shop/sh-3/1.jpg"
+  },
+  "resources/images/shop/sh-3/10.jpg": {
+    "file": "assets/10-4cb5eba6.jpg",
+    "src": "resources/images/shop/sh-3/10.jpg"
+  },
+  "resources/images/shop/sh-3/11.jpg": {
+    "file": "assets/11-695e5314.jpg",
+    "src": "resources/images/shop/sh-3/11.jpg"
+  },
+  "resources/images/shop/sh-3/12.jpg": {
+    "file": "assets/12-9cda4937.jpg",
+    "src": "resources/images/shop/sh-3/12.jpg"
+  },
+  "resources/images/shop/sh-3/13.jpg": {
+    "file": "assets/13-9598d298.jpg",
+    "src": "resources/images/shop/sh-3/13.jpg"
+  },
+  "resources/images/shop/sh-3/14.jpg": {
+    "file": "assets/14-9890aa89.jpg",
+    "src": "resources/images/shop/sh-3/14.jpg"
+  },
+  "resources/images/shop/sh-3/15.jpg": {
+    "file": "assets/15-f1ec2d16.jpg",
+    "src": "resources/images/shop/sh-3/15.jpg"
+  },
+  "resources/images/shop/sh-3/16.jpg": {
+    "file": "assets/16-a578339d.jpg",
+    "src": "resources/images/shop/sh-3/16.jpg"
+  },
+  "resources/images/shop/sh-3/17.jpg": {
+    "file": "assets/17-d32b04d5.jpg",
+    "src": "resources/images/shop/sh-3/17.jpg"
+  },
+  "resources/images/shop/sh-3/18.jpg": {
+    "file": "assets/18-be9d78d5.jpg",
+    "src": "resources/images/shop/sh-3/18.jpg"
+  },
+  "resources/images/shop/sh-3/19.jpg": {
+    "file": "assets/19-f916f1ff.jpg",
+    "src": "resources/images/shop/sh-3/19.jpg"
+  },
+  "resources/images/shop/sh-3/2.jpg": {
+    "file": "assets/2-a8cf29af.jpg",
+    "src": "resources/images/shop/sh-3/2.jpg"
+  },
+  "resources/images/shop/sh-3/20.jpg": {
+    "file": "assets/20-0c2c0716.jpg",
+    "src": "resources/images/shop/sh-3/20.jpg"
+  },
+  "resources/images/shop/sh-3/21.jpg": {
+    "file": "assets/21-a3b3e31c.jpg",
+    "src": "resources/images/shop/sh-3/21.jpg"
+  },
+  "resources/images/shop/sh-3/3.jpg": {
+    "file": "assets/3-3826b8df.jpg",
+    "src": "resources/images/shop/sh-3/3.jpg"
+  },
+  "resources/images/shop/sh-3/4.jpg": {
+    "file": "assets/4-e009c11a.jpg",
+    "src": "resources/images/shop/sh-3/4.jpg"
+  },
+  "resources/images/shop/sh-3/5.jpg": {
+    "file": "assets/5-061e8366.jpg",
+    "src": "resources/images/shop/sh-3/5.jpg"
+  },
+  "resources/images/shop/sh-3/6.jpg": {
+    "file": "assets/6-adb0e223.jpg",
+    "src": "resources/images/shop/sh-3/6.jpg"
+  },
+  "resources/images/shop/sh-3/7.jpg": {
+    "file": "assets/7-e46b0603.jpg",
+    "src": "resources/images/shop/sh-3/7.jpg"
+  },
+  "resources/images/shop/sh-3/8.jpg": {
+    "file": "assets/8-c91548a8.jpg",
+    "src": "resources/images/shop/sh-3/8.jpg"
+  },
+  "resources/images/shop/sh-3/9.jpg": {
+    "file": "assets/9-de75c4b7.jpg",
+    "src": "resources/images/shop/sh-3/9.jpg"
+  },
+  "resources/images/shop/sh-4/1.jpg": {
+    "file": "assets/1-2f08d5c8.jpg",
+    "src": "resources/images/shop/sh-4/1.jpg"
+  },
+  "resources/images/shop/sh-4/10.jpg": {
+    "file": "assets/10-0e776b2f.jpg",
+    "src": "resources/images/shop/sh-4/10.jpg"
+  },
+  "resources/images/shop/sh-4/11.jpg": {
+    "file": "assets/11-e99f3c9c.jpg",
+    "src": "resources/images/shop/sh-4/11.jpg"
+  },
+  "resources/images/shop/sh-4/12.jpg": {
+    "file": "assets/12-1a4f2bf8.jpg",
+    "src": "resources/images/shop/sh-4/12.jpg"
+  },
+  "resources/images/shop/sh-4/13.jpg": {
+    "file": "assets/13-a745b541.jpg",
+    "src": "resources/images/shop/sh-4/13.jpg"
+  },
+  "resources/images/shop/sh-4/14.jpg": {
+    "file": "assets/14-d84a6f67.jpg",
+    "src": "resources/images/shop/sh-4/14.jpg"
+  },
+  "resources/images/shop/sh-4/15.jpg": {
+    "file": "assets/15-207582ef.jpg",
+    "src": "resources/images/shop/sh-4/15.jpg"
+  },
+  "resources/images/shop/sh-4/16.jpg": {
+    "file": "assets/16-cf3dc9e8.jpg",
+    "src": "resources/images/shop/sh-4/16.jpg"
+  },
+  "resources/images/shop/sh-4/17.jpg": {
+    "file": "assets/17-dea36aaa.jpg",
+    "src": "resources/images/shop/sh-4/17.jpg"
+  },
+  "resources/images/shop/sh-4/18.jpg": {
+    "file": "assets/18-378af972.jpg",
+    "src": "resources/images/shop/sh-4/18.jpg"
+  },
+  "resources/images/shop/sh-4/19.jpg": {
+    "file": "assets/19-818667c8.jpg",
+    "src": "resources/images/shop/sh-4/19.jpg"
+  },
+  "resources/images/shop/sh-4/2.jpg": {
+    "file": "assets/2-f21a66f0.jpg",
+    "src": "resources/images/shop/sh-4/2.jpg"
+  },
+  "resources/images/shop/sh-4/20.jpg": {
+    "file": "assets/20-a50e7a6d.jpg",
+    "src": "resources/images/shop/sh-4/20.jpg"
+  },
+  "resources/images/shop/sh-4/21.jpg": {
+    "file": "assets/21-dd905d59.jpg",
+    "src": "resources/images/shop/sh-4/21.jpg"
+  },
+  "resources/images/shop/sh-4/22.jpg": {
+    "file": "assets/22-7ac76619.jpg",
+    "src": "resources/images/shop/sh-4/22.jpg"
+  },
+  "resources/images/shop/sh-4/23.jpg": {
+    "file": "assets/23-0a0eaaf7.jpg",
+    "src": "resources/images/shop/sh-4/23.jpg"
+  },
+  "resources/images/shop/sh-4/24.jpg": {
+    "file": "assets/24-06df979a.jpg",
+    "src": "resources/images/shop/sh-4/24.jpg"
+  },
+  "resources/images/shop/sh-4/25.jpg": {
+    "file": "assets/25-02fbd7cd.jpg",
+    "src": "resources/images/shop/sh-4/25.jpg"
+  },
+  "resources/images/shop/sh-4/26.jpg": {
+    "file": "assets/26-2c126cc2.jpg",
+    "src": "resources/images/shop/sh-4/26.jpg"
+  },
+  "resources/images/shop/sh-4/27.jpg": {
+    "file": "assets/27-393bf1fc.jpg",
+    "src": "resources/images/shop/sh-4/27.jpg"
+  },
+  "resources/images/shop/sh-4/28.jpg": {
+    "file": "assets/28-2898eac8.jpg",
+    "src": "resources/images/shop/sh-4/28.jpg"
+  },
+  "resources/images/shop/sh-4/29.jpg": {
+    "file": "assets/29-c0f242b9.jpg",
+    "src": "resources/images/shop/sh-4/29.jpg"
+  },
+  "resources/images/shop/sh-4/3.jpg": {
+    "file": "assets/3-cac68c29.jpg",
+    "src": "resources/images/shop/sh-4/3.jpg"
+  },
+  "resources/images/shop/sh-4/30.jpg": {
+    "file": "assets/30-fcaf1ed7.jpg",
+    "src": "resources/images/shop/sh-4/30.jpg"
+  },
+  "resources/images/shop/sh-4/31.jpg": {
+    "file": "assets/31-e6f1c7e5.jpg",
+    "src": "resources/images/shop/sh-4/31.jpg"
+  },
+  "resources/images/shop/sh-4/32.jpg": {
+    "file": "assets/32-985cf68d.jpg",
+    "src": "resources/images/shop/sh-4/32.jpg"
+  },
+  "resources/images/shop/sh-4/4.jpg": {
+    "file": "assets/4-d5e8f56b.jpg",
+    "src": "resources/images/shop/sh-4/4.jpg"
+  },
+  "resources/images/shop/sh-4/5.jpg": {
+    "file": "assets/5-8159b6d7.jpg",
+    "src": "resources/images/shop/sh-4/5.jpg"
+  },
+  "resources/images/shop/sh-4/6.jpg": {
+    "file": "assets/6-53cc6665.jpg",
+    "src": "resources/images/shop/sh-4/6.jpg"
+  },
+  "resources/images/shop/sh-4/7.jpg": {
+    "file": "assets/7-6b41911f.jpg",
+    "src": "resources/images/shop/sh-4/7.jpg"
+  },
+  "resources/images/shop/sh-4/8.jpg": {
+    "file": "assets/8-24e33871.jpg",
+    "src": "resources/images/shop/sh-4/8.jpg"
+  },
+  "resources/images/shop/sh-4/9.jpg": {
+    "file": "assets/9-49963816.jpg",
+    "src": "resources/images/shop/sh-4/9.jpg"
+  },
+  "resources/images/shop/sh-5/1.jpg": {
+    "file": "assets/1-8caf8f5e.jpg",
+    "src": "resources/images/shop/sh-5/1.jpg"
+  },
+  "resources/images/shop/sh-5/10.jpg": {
+    "file": "assets/10-297ffd31.jpg",
+    "src": "resources/images/shop/sh-5/10.jpg"
+  },
+  "resources/images/shop/sh-5/11.jpg": {
+    "file": "assets/11-f764b586.jpg",
+    "src": "resources/images/shop/sh-5/11.jpg"
+  },
+  "resources/images/shop/sh-5/12.jpg": {
+    "file": "assets/12-44ed5a03.jpg",
+    "src": "resources/images/shop/sh-5/12.jpg"
+  },
+  "resources/images/shop/sh-5/13.jpg": {
+    "file": "assets/13-3d48292e.jpg",
+    "src": "resources/images/shop/sh-5/13.jpg"
+  },
+  "resources/images/shop/sh-5/14.jpg": {
+    "file": "assets/14-2faad783.jpg",
+    "src": "resources/images/shop/sh-5/14.jpg"
+  },
+  "resources/images/shop/sh-5/15.jpg": {
+    "file": "assets/15-0f99f2ed.jpg",
+    "src": "resources/images/shop/sh-5/15.jpg"
+  },
+  "resources/images/shop/sh-5/2.jpg": {
+    "file": "assets/2-76032649.jpg",
+    "src": "resources/images/shop/sh-5/2.jpg"
+  },
+  "resources/images/shop/sh-5/3.jpg": {
+    "file": "assets/3-f4e76023.jpg",
+    "src": "resources/images/shop/sh-5/3.jpg"
+  },
+  "resources/images/shop/sh-5/4.jpg": {
+    "file": "assets/4-54de6a96.jpg",
+    "src": "resources/images/shop/sh-5/4.jpg"
+  },
+  "resources/images/shop/sh-5/5.jpg": {
+    "file": "assets/5-8d7b9ca2.jpg",
+    "src": "resources/images/shop/sh-5/5.jpg"
+  },
+  "resources/images/shop/sh-5/6.jpg": {
+    "file": "assets/6-54779ab9.jpg",
+    "src": "resources/images/shop/sh-5/6.jpg"
+  },
+  "resources/images/shop/sh-5/7.jpg": {
+    "file": "assets/7-81f24479.jpg",
+    "src": "resources/images/shop/sh-5/7.jpg"
+  },
+  "resources/images/shop/sh-5/8.jpg": {
+    "file": "assets/8-12544ade.jpg",
+    "src": "resources/images/shop/sh-5/8.jpg"
+  },
+  "resources/images/shop/sh-5/9.jpg": {
+    "file": "assets/9-ff1a7064.jpg",
+    "src": "resources/images/shop/sh-5/9.jpg"
+  },
+  "resources/images/shop/sh-6full/1.jpg": {
+    "file": "assets/1-4e300515.jpg",
+    "src": "resources/images/shop/sh-6full/1.jpg"
+  },
+  "resources/images/shop/sh-6full/10.jpg": {
+    "file": "assets/10-20f903f0.jpg",
+    "src": "resources/images/shop/sh-6full/10.jpg"
+  },
+  "resources/images/shop/sh-6full/11.jpg": {
+    "file": "assets/11-cb8a3dd1.jpg",
+    "src": "resources/images/shop/sh-6full/11.jpg"
+  },
+  "resources/images/shop/sh-6full/12.jpg": {
+    "file": "assets/12-e07b7d8a.jpg",
+    "src": "resources/images/shop/sh-6full/12.jpg"
+  },
+  "resources/images/shop/sh-6full/2.jpg": {
+    "file": "assets/2-97a19eab.jpg",
+    "src": "resources/images/shop/sh-6full/2.jpg"
+  },
+  "resources/images/shop/sh-6full/3.jpg": {
+    "file": "assets/3-833c8de1.jpg",
+    "src": "resources/images/shop/sh-6full/3.jpg"
+  },
+  "resources/images/shop/sh-6full/4.jpg": {
+    "file": "assets/4-092cd44b.jpg",
+    "src": "resources/images/shop/sh-6full/4.jpg"
+  },
+  "resources/images/shop/sh-6full/5.jpg": {
+    "file": "assets/5-dd40083c.jpg",
+    "src": "resources/images/shop/sh-6full/5.jpg"
+  },
+  "resources/images/shop/sh-6full/6.jpg": {
+    "file": "assets/6-86e89e4a.jpg",
+    "src": "resources/images/shop/sh-6full/6.jpg"
+  },
+  "resources/images/shop/sh-6full/7.jpg": {
+    "file": "assets/7-a95a404c.jpg",
+    "src": "resources/images/shop/sh-6full/7.jpg"
+  },
+  "resources/images/shop/sh-6full/8.jpg": {
+    "file": "assets/8-97bdb73c.jpg",
+    "src": "resources/images/shop/sh-6full/8.jpg"
+  },
+  "resources/images/shop/sh-6full/9.jpg": {
+    "file": "assets/9-7f9ce875.jpg",
+    "src": "resources/images/shop/sh-6full/9.jpg"
+  },
+  "resources/images/shop/sh-detail/detail-01.jpg": {
+    "file": "assets/detail-01-0e8edefc.jpg",
+    "src": "resources/images/shop/sh-detail/detail-01.jpg"
+  },
+  "resources/images/shop/sh-detail/detail-02.jpg": {
+    "file": "assets/detail-02-f351f791.jpg",
+    "src": "resources/images/shop/sh-detail/detail-02.jpg"
+  },
+  "resources/images/shop/sh-detail/detail-03.jpg": {
+    "file": "assets/detail-03-277055fe.jpg",
+    "src": "resources/images/shop/sh-detail/detail-03.jpg"
+  },
+  "resources/images/shop/sh-detail/detail-04.jpg": {
+    "file": "assets/detail-04-c817d510.jpg",
+    "src": "resources/images/shop/sh-detail/detail-04.jpg"
+  },
+  "resources/images/shop/sh-detail/detail-05.jpg": {
+    "file": "assets/detail-05-38b28bbf.jpg",
+    "src": "resources/images/shop/sh-detail/detail-05.jpg"
+  },
+  "resources/images/shop/sh-detail/detail-06.jpg": {
+    "file": "assets/detail-06-a4e6699a.jpg",
+    "src": "resources/images/shop/sh-detail/detail-06.jpg"
+  },
+  "resources/images/shop/sh-detail/detail-07.jpg": {
+    "file": "assets/detail-07-5eec288f.jpg",
+    "src": "resources/images/shop/sh-detail/detail-07.jpg"
+  },
+  "resources/images/shop/sh-detail/detail-desc-01.jpg": {
+    "file": "assets/detail-desc-01-d31016bc.jpg",
+    "src": "resources/images/shop/sh-detail/detail-desc-01.jpg"
+  },
+  "resources/images/shop/sh-detail/detail-desc-02.jpg": {
+    "file": "assets/detail-desc-02-733f23a5.jpg",
+    "src": "resources/images/shop/sh-detail/detail-desc-02.jpg"
+  },
+  "resources/images/shop/sh-detail/detail-desc-03.jpg": {
+    "file": "assets/detail-desc-03-32de0cb2.jpg",
+    "src": "resources/images/shop/sh-detail/detail-desc-03.jpg"
+  },
+  "resources/images/shop/sh-detail/detail-desc-04.jpg": {
+    "file": "assets/detail-desc-04-6037ba11.jpg",
+    "src": "resources/images/shop/sh-detail/detail-desc-04.jpg"
+  },
+  "resources/images/shop/sh-detail/thumb-detail-01.jpg": {
+    "file": "assets/thumb-detail-01-23eb14b8.jpg",
+    "src": "resources/images/shop/sh-detail/thumb-detail-01.jpg"
+  },
+  "resources/images/shop/sh-detail/thumb-detail-02.jpg": {
+    "file": "assets/thumb-detail-02-31bef0a5.jpg",
+    "src": "resources/images/shop/sh-detail/thumb-detail-02.jpg"
+  },
+  "resources/images/shop/sh-detail/thumb-detail-03.jpg": {
+    "file": "assets/thumb-detail-03-5c6015a3.jpg",
+    "src": "resources/images/shop/sh-detail/thumb-detail-03.jpg"
+  },
+  "resources/images/shop/sh-detail/thumb-detail-04.jpg": {
+    "file": "assets/thumb-detail-04-c2dc5955.jpg",
+    "src": "resources/images/shop/sh-detail/thumb-detail-04.jpg"
+  },
+  "resources/images/shop/sh-detail/thumb-detail-05.jpg": {
+    "file": "assets/thumb-detail-05-24945fd3.jpg",
+    "src": "resources/images/shop/sh-detail/thumb-detail-05.jpg"
+  },
+  "resources/images/shop/sh-detail/thumb-detail-06.jpg": {
+    "file": "assets/thumb-detail-06-06a76014.jpg",
+    "src": "resources/images/shop/sh-detail/thumb-detail-06.jpg"
+  },
+  "resources/images/shop/sh-detail/thumb-detail-07.jpg": {
+    "file": "assets/thumb-detail-07-a14a7ead.jpg",
+    "src": "resources/images/shop/sh-detail/thumb-detail-07.jpg"
+  },
+  "resources/images/shop/sh-detail/thumb-detail-08.jpg": {
+    "file": "assets/thumb-detail-08-bdc31a9d.jpg",
+    "src": "resources/images/shop/sh-detail/thumb-detail-08.jpg"
+  },
+  "resources/images/shop/sh-detail/thumb-detail-09.jpg": {
+    "file": "assets/thumb-detail-09-65e7a9b0.jpg",
+    "src": "resources/images/shop/sh-detail/thumb-detail-09.jpg"
+  },
+  "resources/images/shop/sh-detail/thumb-detail-10.jpg": {
+    "file": "assets/thumb-detail-10-04b67a4c.jpg",
+    "src": "resources/images/shop/sh-detail/thumb-detail-10.jpg"
+  },
+  "resources/images/shop/sh-detail/thumb-detail-11.jpg": {
+    "file": "assets/thumb-detail-11-69052bab.jpg",
+    "src": "resources/images/shop/sh-detail/thumb-detail-11.jpg"
+  },
+  "resources/images/shop/sh-detail/thumb-detail-12.jpg": {
+    "file": "assets/thumb-detail-12-0130d2a2.jpg",
+    "src": "resources/images/shop/sh-detail/thumb-detail-12.jpg"
+  },
+  "resources/images/slider/slider-bg-1.jpg": {
+    "file": "assets/slider-bg-1-f786d3ff.jpg",
+    "src": "resources/images/slider/slider-bg-1.jpg"
+  },
+  "resources/images/slider/slider-bg-2.jpg": {
+    "file": "assets/slider-bg-2-597373f5.jpg",
+    "src": "resources/images/slider/slider-bg-2.jpg"
+  },
+  "resources/images/slider/slider-bg-3.jpg": {
+    "file": "assets/slider-bg-3-1a9e040d.jpg",
+    "src": "resources/images/slider/slider-bg-3.jpg"
+  },
+  "resources/images/slider/slider-bg-4.jpg": {
+    "file": "assets/slider-bg-4-c31d4fb9.jpg",
+    "src": "resources/images/slider/slider-bg-4.jpg"
+  },
+  "resources/images/slider/slider-bg-5.jpg": {
+    "file": "assets/slider-bg-5-471c5048.jpg",
+    "src": "resources/images/slider/slider-bg-5.jpg"
+  },
+  "resources/images/slider/slider-bg-7.jpg": {
+    "file": "assets/slider-bg-7-e932711f.jpg",
+    "src": "resources/images/slider/slider-bg-7.jpg"
+  },
+  "resources/images/slider/slider-bg-8.jpg": {
+    "file": "assets/slider-bg-8-083395f8.jpg",
+    "src": "resources/images/slider/slider-bg-8.jpg"
+  },
+  "resources/images/wordpress-version.png": {
+    "file": "assets/wordpress-version-e4e2ab1b.png",
+    "src": "resources/images/wordpress-version.png"
+  },
+  "resources/img/2022-Yamaha-03.jpg": {
+    "file": "assets/2022-Yamaha-03-a47e3171.jpg",
+    "src": "resources/img/2022-Yamaha-03.jpg"
+  },
+  "resources/img/2022-Yamaha-dashboard-03_Mobile.jpg": {
+    "file": "assets/2022-Yamaha-dashboard-03_Mobile-5fe6e38e.jpg",
+    "src": "resources/img/2022-Yamaha-dashboard-03_Mobile.jpg"
+  },
+  "resources/img/2022-Yamaha-front-03_Mobile.jpg": {
+    "file": "assets/2022-Yamaha-front-03_Mobile-71a5d54a.jpg",
+    "src": "resources/img/2022-Yamaha-front-03_Mobile.jpg"
+  },
+  "resources/img/2022-Yamaha-side-03_Mobile.jpg": {
+    "file": "assets/2022-Yamaha-side-03_Mobile-45e755fa.jpg",
+    "src": "resources/img/2022-Yamaha-side-03_Mobile.jpg"
+  },
+  "resources/img/5179740-cat_motorcycle_product_type_accessories_handlebar_accessories_bar_ends-2-3-367.jpg": {
+    "file": "assets/5179740-cat_motorcycle_product_type_accessories_handlebar_accessories_bar_ends-2-3-367-ed0557c2.jpg",
+    "src": "resources/img/handlebar-accessories/5179740-cat_motorcycle_product_type_accessories_handlebar_accessories_bar_ends-2-3-367.jpg"
+  },
+  "resources/img/5179741-cat_motorcycle_product_type_accessories_handlebar_accessories_clocks-2-3-367.jpg": {
+    "file": "assets/5179741-cat_motorcycle_product_type_accessories_handlebar_accessories_clocks-2-3-367-d6cfc40d.jpg",
+    "src": "resources/img/handlebar-accessories/5179741-cat_motorcycle_product_type_accessories_handlebar_accessories_clocks-2-3-367.jpg"
+  },
+  "resources/img/5179742-cat_motorcycle_product_type_accessories_handlebar_accessories_grips-2-3-367.jpg": {
+    "file": "assets/5179742-cat_motorcycle_product_type_accessories_handlebar_accessories_grips-2-3-367-266dd269.jpg",
+    "src": "resources/img/handlebar-accessories/5179742-cat_motorcycle_product_type_accessories_handlebar_accessories_grips-2-3-367.jpg"
+  },
+  "resources/img/5179743-cat_motorcycle_product_type_accessories_handlebar_accessories_heated_grips-2-3-367.jpg": {
+    "file": "assets/5179743-cat_motorcycle_product_type_accessories_handlebar_accessories_heated_grips-2-3-367-0c1999bc.jpg",
+    "src": "resources/img/handlebar-accessories/5179743-cat_motorcycle_product_type_accessories_handlebar_accessories_heated_grips-2-3-367.jpg"
+  },
+  "resources/img/5179744-cat_motorcycle_product_type_accessories_handlebar_accessories_mirrors-2-3-367.jpg": {
+    "file": "assets/5179744-cat_motorcycle_product_type_accessories_handlebar_accessories_mirrors-2-3-367-803dd8b6.jpg",
+    "src": "resources/img/handlebar-accessories/5179744-cat_motorcycle_product_type_accessories_handlebar_accessories_mirrors-2-3-367.jpg"
+  },
+  "resources/img/5179745-cat_motorcycle_product_type_accessories_handlebar_accessories_muffs-2-3-367.jpg": {
+    "file": "assets/5179745-cat_motorcycle_product_type_accessories_handlebar_accessories_muffs-2-3-367-dff7f9da.jpg",
+    "src": "resources/img/handlebar-accessories/5179745-cat_motorcycle_product_type_accessories_handlebar_accessories_muffs-2-3-367.jpg"
+  },
+  "resources/img/5179746-cat_motorcycle_product_type_accessories_handlebar_accessories_phone_accessories-2-3-367.jpg": {
+    "file": "assets/5179746-cat_motorcycle_product_type_accessories_handlebar_accessories_phone_accessories-2-3-367-fe12318a.jpg",
+    "src": "resources/img/handlebar-accessories/5179746-cat_motorcycle_product_type_accessories_handlebar_accessories_phone_accessories-2-3-367.jpg"
+  },
+  "resources/img/about-hero.svg": {
+    "file": "assets/about-hero-c6266883.svg",
+    "src": "resources/img/about-hero.svg"
+  },
+  "resources/img/accessories/5179735-cat_motorcycle_product_type_accessories_battery_care_and_power_accessories-2-3-367.jpg": {
+    "file": "assets/5179735-cat_motorcycle_product_type_accessories_battery_care_and_power_accessories-2-3-367-41fcd2d0.jpg",
+    "src": "resources/img/accessories/5179735-cat_motorcycle_product_type_accessories_battery_care_and_power_accessories-2-3-367.jpg"
+  },
+  "resources/img/accessories/5179736-cat_motorcycle_product_type_accessories_covers-2-3-367.jpg": {
+    "file": "assets/5179736-cat_motorcycle_product_type_accessories_covers-2-3-367-7999a9dc.jpg",
+    "src": "resources/img/accessories/5179736-cat_motorcycle_product_type_accessories_covers-2-3-367.jpg"
+  },
+  "resources/img/accessories/5179738-cat_motorcycle_product_type_accessories_eye_wear-2-3-367.jpg": {
+    "file": "assets/5179738-cat_motorcycle_product_type_accessories_eye_wear-2-3-367-45b948c2.jpg",
+    "src": "resources/img/accessories/5179738-cat_motorcycle_product_type_accessories_eye_wear-2-3-367.jpg"
+  },
+  "resources/img/accessories/5179739-cat_motorcycle_product_type_accessories_handlebar_accessories-2-3-367.jpg": {
+    "file": "assets/5179739-cat_motorcycle_product_type_accessories_handlebar_accessories-2-3-367-695befbd.jpg",
+    "src": "resources/img/accessories/5179739-cat_motorcycle_product_type_accessories_handlebar_accessories-2-3-367.jpg"
+  },
+  "resources/img/accessories/5179747-cat_motorcycle_product_type_accessories_helmet_accessories-2-3-367.jpg": {
+    "file": "assets/5179747-cat_motorcycle_product_type_accessories_helmet_accessories-2-3-367-7d97cc9b.jpg",
+    "src": "resources/img/accessories/5179747-cat_motorcycle_product_type_accessories_helmet_accessories-2-3-367.jpg"
+  },
+  "resources/img/accessories/5179748-cat_motorcycle_product_type_accessories_lighting-2-3-367.jpg": {
+    "file": "assets/5179748-cat_motorcycle_product_type_accessories_lighting-2-3-367-1a0a647e.jpg",
+    "src": "resources/img/accessories/5179748-cat_motorcycle_product_type_accessories_lighting-2-3-367.jpg"
+  },
+  "resources/img/accessories/5179749-cat_motorcycle_product_type_accessories_paint_protection-2-3-367.jpg": {
+    "file": "assets/5179749-cat_motorcycle_product_type_accessories_paint_protection-2-3-367-2cd429ad.jpg",
+    "src": "resources/img/accessories/5179749-cat_motorcycle_product_type_accessories_paint_protection-2-3-367.jpg"
+  },
+  "resources/img/accessories/5179750-cat_motorcycle_product_type_accessories_phone_and_device_mounts-2-3-367.jpg": {
+    "file": "assets/5179750-cat_motorcycle_product_type_accessories_phone_and_device_mounts-2-3-367-cf72fc0c.jpg",
+    "src": "resources/img/accessories/5179750-cat_motorcycle_product_type_accessories_phone_and_device_mounts-2-3-367.jpg"
+  },
+  "resources/img/accessories/5179751-cat_motorcycle_product_type_accessories_scoot_stuff-2-3-367.jpg": {
+    "file": "assets/5179751-cat_motorcycle_product_type_accessories_scoot_stuff-2-3-367-f2ccc8a0.jpg",
+    "src": "resources/img/accessories/5179751-cat_motorcycle_product_type_accessories_scoot_stuff-2-3-367.jpg"
+  },
+  "resources/img/accessories/5179754-cat_motorcycle_product_type_accessories_travel_and_transportation-2-3-367.jpg": {
+    "file": "assets/5179754-cat_motorcycle_product_type_accessories_travel_and_transportation-2-3-367-f3d5a87c.jpg",
+    "src": "resources/img/accessories/5179754-cat_motorcycle_product_type_accessories_travel_and_transportation-2-3-367.jpg"
+  },
+  "resources/img/accessories/5179755-cat_motorcycle_product_type_accessories_tyre_and_wheel_care-2-3-367.jpg": {
+    "file": "assets/5179755-cat_motorcycle_product_type_accessories_tyre_and_wheel_care-2-3-367-41f97ba7.jpg",
+    "src": "resources/img/accessories/5179755-cat_motorcycle_product_type_accessories_tyre_and_wheel_care-2-3-367.jpg"
+  },
+  "resources/img/accessories/5179756-cat_motorcycle_product_type_accessories_workshop-2-3-367.jpg": {
+    "file": "assets/5179756-cat_motorcycle_product_type_accessories_workshop-2-3-367-280924e1.jpg",
+    "src": "resources/img/accessories/5179756-cat_motorcycle_product_type_accessories_workshop-2-3-367.jpg"
+  },
+  "resources/img/ajax-loader.gif": {
+    "file": "assets/ajax-loader-480f5e86.gif",
+    "src": "resources/img/ajax-loader.gif"
+  },
+  "resources/img/apple-icon.png": {
+    "file": "assets/apple-icon-2046fe09.png",
+    "src": "resources/img/apple-icon.png"
+  },
+  "resources/img/banner_img_01.jpg": {
+    "file": "assets/banner_img_01-4f56476a.jpg",
+    "src": "resources/img/banner_img_01.jpg"
+  },
+  "resources/img/banner_img_02.jpg": {
+    "file": "assets/banner_img_02-6fcb20fd.jpg",
+    "src": "resources/img/banner_img_02.jpg"
+  },
+  "resources/img/banner_img_03.jpg": {
+    "file": "assets/banner_img_03-29cdf875.jpg",
+    "src": "resources/img/banner_img_03.jpg"
+  },
+  "resources/img/brand_01.png": {
+    "file": "assets/brand_01-61fda257.png",
+    "src": "resources/img/brand_01.png"
+  },
+  "resources/img/brand_02.png": {
+    "file": "assets/brand_02-3e4c5650.png",
+    "src": "resources/img/brand_02.png"
+  },
+  "resources/img/brand_03.png": {
+    "file": "assets/brand_03-520bd64a.png",
+    "src": "resources/img/brand_03.png"
+  },
+  "resources/img/brand_04.png": {
+    "file": "assets/brand_04-70b3b247.png",
+    "src": "resources/img/brand_04.png"
+  },
+  "resources/img/brands/5179768-cat_motorcycle_product_type_helmets_alpinestars-2-3-367.jpg": {
+    "file": "assets/5179768-cat_motorcycle_product_type_helmets_alpinestars-2-3-367-7ebd5481.jpg",
+    "src": "resources/img/brands/5179768-cat_motorcycle_product_type_helmets_alpinestars-2-3-367.jpg"
+  },
+  "resources/img/brands/5179769-cat_motorcycle_product_type_helmets_box-2-3-367.jpg": {
+    "file": "assets/box-47bfd0c3.jpg",
+    "src": "resources/img/brands/box.jpg"
+  },
+  "resources/img/brands/5179776-cat_motorcycle_product_type_helmets_hjc-2-3-367.jpg": {
+    "file": "assets/hjc-2ce7393f.jpg",
+    "src": "resources/img/brands/hjc.jpg"
+  },
+  "resources/img/brands/5179784-cat_motorcycle_product_type_helmets_mt_helmets-2-3-367.jpg": {
+    "file": "assets/mt_helmets-e9be837c.jpg",
+    "src": "resources/img/brands/mt_helmets.jpg"
+  },
+  "resources/img/brands/5179794-cat_motorcycle_product_type_helmets_simpson-2-3-367.jpg": {
+    "file": "assets/simpson-8d672587.jpg",
+    "src": "resources/img/brands/simpson.jpg"
+  },
+  "resources/img/brands/alpinestars.jpg": {
+    "file": "assets/alpinestars-666dcc95.jpg",
+    "src": "resources/img/rider-wear/5179811-cat_motorcycle_product_type_rider_wear_alpinestars-2-3-367.jpg"
+  },
+  "resources/img/brands/arm.jpg": {
+    "file": "assets/arm-28c043cb.jpg",
+    "src": "resources/img/rider-wear/5179828-cat_motorcycle_product_type_rider_wear_armr-2-3-367.jpg"
+  },
+  "resources/img/brands/box.jpg": {
+    "file": "assets/box-47bfd0c3.jpg",
+    "src": "resources/img/brands/box.jpg"
+  },
+  "resources/img/brands/bullit.jpg": {
+    "file": "assets/bullit-8a2fd552.jpg",
+    "src": "resources/img/rider-wear/5179844-cat_motorcycle_product_type_rider_wear_bullit-2-3-367.jpg"
+  },
+  "resources/img/brands/dojo.jpg": {
+    "file": "assets/dojo-83767315.jpg",
+    "src": "resources/img/rider-wear/5179872-cat_motorcycle_product_type_rider_wear_dojo-2-3-367.jpg"
+  },
+  "resources/img/brands/hjc.jpg": {
+    "file": "assets/hjc-2ce7393f.jpg",
+    "src": "resources/img/brands/hjc.jpg"
+  },
+  "resources/img/brands/mt_helmets.jpg": {
+    "file": "assets/mt_helmets-e9be837c.jpg",
+    "src": "resources/img/brands/mt_helmets.jpg"
+  },
+  "resources/img/brands/oxford.jpg": {
+    "file": "assets/oxford-776db42e.jpg",
+    "src": "resources/img/rider-wear/5179887-cat_motorcycle_product_type_rider_wear_oxford-2-3-367.jpg"
+  },
+  "resources/img/brands/simpson.jpg": {
+    "file": "assets/simpson-8d672587.jpg",
+    "src": "resources/img/brands/simpson.jpg"
+  },
+  "resources/img/brands/spartan.jpg": {
+    "file": "assets/spartan-5ecb8c9f.jpg",
+    "src": "resources/img/rider-wear/5179905-cat_motorcycle_product_type_rider_wear_spartan-2-3-367.jpg"
+  },
+  "resources/img/category_img_01.jpg": {
+    "file": "assets/category_img_01-1ab05ff1.jpg",
+    "src": "resources/img/category_img_01.jpg"
+  },
+  "resources/img/category_img_02.jpg": {
+    "file": "assets/category_img_02-8a902c46.jpg",
+    "src": "resources/img/category_img_02.jpg"
+  },
+  "resources/img/category_img_03.jpg": {
+    "file": "assets/category_img_03-924743eb.jpg",
+    "src": "resources/img/category_img_03.jpg"
+  },
+  "resources/img/feature_prod_01.jpg": {
+    "file": "assets/feature_prod_01-75be3d6a.jpg",
+    "src": "resources/img/feature_prod_01.jpg"
+  },
+  "resources/img/feature_prod_02.jpg": {
+    "file": "assets/feature_prod_02-564b76ef.jpg",
+    "src": "resources/img/feature_prod_02.jpg"
+  },
+  "resources/img/feature_prod_03.jpg": {
+    "file": "assets/feature_prod_03-4a09242c.jpg",
+    "src": "resources/img/feature_prod_03.jpg"
+  },
+  "resources/img/handlebar-accessories/5179740-cat_motorcycle_product_type_accessories_handlebar_accessories_bar_ends-2-3-367.jpg": {
+    "file": "assets/5179740-cat_motorcycle_product_type_accessories_handlebar_accessories_bar_ends-2-3-367-ed0557c2.jpg",
+    "src": "resources/img/handlebar-accessories/5179740-cat_motorcycle_product_type_accessories_handlebar_accessories_bar_ends-2-3-367.jpg"
+  },
+  "resources/img/handlebar-accessories/5179741-cat_motorcycle_product_type_accessories_handlebar_accessories_clocks-2-3-367.jpg": {
+    "file": "assets/5179741-cat_motorcycle_product_type_accessories_handlebar_accessories_clocks-2-3-367-d6cfc40d.jpg",
+    "src": "resources/img/handlebar-accessories/5179741-cat_motorcycle_product_type_accessories_handlebar_accessories_clocks-2-3-367.jpg"
+  },
+  "resources/img/handlebar-accessories/5179742-cat_motorcycle_product_type_accessories_handlebar_accessories_grips-2-3-367.jpg": {
+    "file": "assets/5179742-cat_motorcycle_product_type_accessories_handlebar_accessories_grips-2-3-367-266dd269.jpg",
+    "src": "resources/img/handlebar-accessories/5179742-cat_motorcycle_product_type_accessories_handlebar_accessories_grips-2-3-367.jpg"
+  },
+  "resources/img/handlebar-accessories/5179743-cat_motorcycle_product_type_accessories_handlebar_accessories_heated_grips-2-3-367.jpg": {
+    "file": "assets/5179743-cat_motorcycle_product_type_accessories_handlebar_accessories_heated_grips-2-3-367-0c1999bc.jpg",
+    "src": "resources/img/handlebar-accessories/5179743-cat_motorcycle_product_type_accessories_handlebar_accessories_heated_grips-2-3-367.jpg"
+  },
+  "resources/img/handlebar-accessories/5179744-cat_motorcycle_product_type_accessories_handlebar_accessories_mirrors-2-3-367.jpg": {
+    "file": "assets/5179744-cat_motorcycle_product_type_accessories_handlebar_accessories_mirrors-2-3-367-803dd8b6.jpg",
+    "src": "resources/img/handlebar-accessories/5179744-cat_motorcycle_product_type_accessories_handlebar_accessories_mirrors-2-3-367.jpg"
+  },
+  "resources/img/handlebar-accessories/5179745-cat_motorcycle_product_type_accessories_handlebar_accessories_muffs-2-3-367.jpg": {
+    "file": "assets/5179745-cat_motorcycle_product_type_accessories_handlebar_accessories_muffs-2-3-367-dff7f9da.jpg",
+    "src": "resources/img/handlebar-accessories/5179745-cat_motorcycle_product_type_accessories_handlebar_accessories_muffs-2-3-367.jpg"
+  },
+  "resources/img/handlebar-accessories/5179746-cat_motorcycle_product_type_accessories_handlebar_accessories_phone_accessories-2-3-367.jpg": {
+    "file": "assets/5179746-cat_motorcycle_product_type_accessories_handlebar_accessories_phone_accessories-2-3-367-fe12318a.jpg",
+    "src": "resources/img/handlebar-accessories/5179746-cat_motorcycle_product_type_accessories_handlebar_accessories_phone_accessories-2-3-367.jpg"
+  },
+  "resources/img/icon.png": {
+    "file": "assets/icon-966b0468.png",
+    "src": "resources/img/icon.png"
+  },
+  "resources/img/logo.png": {
+    "file": "assets/logo-64c2dd44.png",
+    "src": "resources/img/logo.png"
+  },
+  "resources/img/luggage/5179799-cat_motorcycle_product_type_luggage_backpacks-2-3-367.jpg": {
+    "file": "assets/5179799-cat_motorcycle_product_type_luggage_backpacks-2-3-367-532f2bde.jpg",
+    "src": "resources/img/luggage/5179799-cat_motorcycle_product_type_luggage_backpacks-2-3-367.jpg"
+  },
+  "resources/img/luggage/5179800-cat_motorcycle_product_type_luggage_helmet_and_boot_carriers-2-3-367.jpg": {
+    "file": "assets/5179800-cat_motorcycle_product_type_luggage_helmet_and_boot_carriers-2-3-367-7190d80e.jpg",
+    "src": "resources/img/luggage/5179800-cat_motorcycle_product_type_luggage_helmet_and_boot_carriers-2-3-367.jpg"
+  },
+  "resources/img/luggage/5179802-cat_motorcycle_product_type_luggage_luggage_accessories-2-3-367.jpg": {
+    "file": "assets/5179802-cat_motorcycle_product_type_luggage_luggage_accessories-2-3-367-981110c1.jpg",
+    "src": "resources/img/luggage/5179802-cat_motorcycle_product_type_luggage_luggage_accessories-2-3-367.jpg"
+  },
+  "resources/img/luggage/5179803-cat_motorcycle_product_type_luggage_panniers-2-3-367.jpg": {
+    "file": "assets/5179803-cat_motorcycle_product_type_luggage_panniers-2-3-367-81080d63.jpg",
+    "src": "resources/img/luggage/5179803-cat_motorcycle_product_type_luggage_panniers-2-3-367.jpg"
+  },
+  "resources/img/luggage/5179805-cat_motorcycle_product_type_luggage_sat_nav_holder-2-3-367.jpg": {
+    "file": "assets/5179805-cat_motorcycle_product_type_luggage_sat_nav_holder-2-3-367-45a5bd02.jpg",
+    "src": "resources/img/luggage/5179805-cat_motorcycle_product_type_luggage_sat_nav_holder-2-3-367.jpg"
+  },
+  "resources/img/luggage/5179806-cat_motorcycle_product_type_luggage_tail_packs-2-3-367.jpg": {
+    "file": "assets/5179806-cat_motorcycle_product_type_luggage_tail_packs-2-3-367-20bac10f.jpg",
+    "src": "resources/img/luggage/5179806-cat_motorcycle_product_type_luggage_tail_packs-2-3-367.jpg"
+  },
+  "resources/img/luggage/5179807-cat_motorcycle_product_type_luggage_tank_bags-2-3-367.jpg": {
+    "file": "assets/5179807-cat_motorcycle_product_type_luggage_tank_bags-2-3-367-7d9988ec.jpg",
+    "src": "resources/img/luggage/5179807-cat_motorcycle_product_type_luggage_tank_bags-2-3-367.jpg"
+  },
+  "resources/img/luggage/5179808-cat_motorcycle_product_type_luggage_top_boxes-2-3-367.jpg": {
+    "file": "assets/5179808-cat_motorcycle_product_type_luggage_top_boxes-2-3-367-0e526227.jpg",
+    "src": "resources/img/luggage/5179808-cat_motorcycle_product_type_luggage_top_boxes-2-3-367.jpg"
+  },
+  "resources/img/luggage/5179809-cat_motorcycle_product_type_luggage_waist_and_leg_bags-2-3-367.jpg": {
+    "file": "assets/5179809-cat_motorcycle_product_type_luggage_waist_and_leg_bags-2-3-367-09dec735.jpg",
+    "src": "resources/img/luggage/5179809-cat_motorcycle_product_type_luggage_waist_and_leg_bags-2-3-367.jpg"
+  },
+  "resources/img/motorcycle-01.png": {
+    "file": "assets/motorcycle-01-e46fc881.png",
+    "src": "resources/img/motorcycle-01.png"
+  },
+  "resources/img/motorcycle-1.jpg": {
+    "file": "assets/motorcycle-1-86b650ad.jpg",
+    "src": "resources/img/motorcycle-1.jpg"
+  },
+  "resources/img/motorcycle-2.jpg": {
+    "file": "assets/motorcycle-2-516bd0b7.jpg",
+    "src": "resources/img/motorcycle-2.jpg"
+  },
+  "resources/img/product_single_01.jpg": {
+    "file": "assets/product_single_01-04407e24.jpg",
+    "src": "resources/img/product_single_01.jpg"
+  },
+  "resources/img/product_single_02.jpg": {
+    "file": "assets/product_single_02-8576f427.jpg",
+    "src": "resources/img/product_single_02.jpg"
+  },
+  "resources/img/product_single_03.jpg": {
+    "file": "assets/product_single_03-7e1a0368.jpg",
+    "src": "resources/img/product_single_03.jpg"
+  },
+  "resources/img/product_single_04.jpg": {
+    "file": "assets/product_single_04-3cade8b2.jpg",
+    "src": "resources/img/product_single_04.jpg"
+  },
+  "resources/img/product_single_05.jpg": {
+    "file": "assets/product_single_05-04c87f68.jpg",
+    "src": "resources/img/product_single_05.jpg"
+  },
+  "resources/img/product_single_06.jpg": {
+    "file": "assets/product_single_06-82820a64.jpg",
+    "src": "resources/img/product_single_06.jpg"
+  },
+  "resources/img/product_single_07.jpg": {
+    "file": "assets/product_single_07-6f1ce835.jpg",
+    "src": "resources/img/product_single_07.jpg"
+  },
+  "resources/img/product_single_08.jpg": {
+    "file": "assets/product_single_08-2179e2a4.jpg",
+    "src": "resources/img/product_single_08.jpg"
+  },
+  "resources/img/product_single_09.jpg": {
+    "file": "assets/product_single_09-0fd90957.jpg",
+    "src": "resources/img/product_single_09.jpg"
+  },
+  "resources/img/product_single_10.jpg": {
+    "file": "assets/product_single_10-517dd07f.jpg",
+    "src": "resources/img/product_single_10.jpg"
+  },
+  "resources/img/product_type/5179734-cat_motorcycle_product_type_accessories-2-3-367.jpg": {
+    "file": "assets/5179734-cat_motorcycle_product_type_accessories-2-3-367-7222267f.jpg",
+    "src": "resources/img/product_type/5179734-cat_motorcycle_product_type_accessories-2-3-367.jpg"
+  },
+  "resources/img/product_type/5179767-cat_motorcycle_product_type_helmets-2-3-367.jpg": {
+    "file": "assets/5179767-cat_motorcycle_product_type_helmets-2-3-367-f2e5f071.jpg",
+    "src": "resources/img/product_type/5179767-cat_motorcycle_product_type_helmets-2-3-367.jpg"
+  },
+  "resources/img/product_type/5179798-cat_motorcycle_product_type_luggage-2-3-367.jpg": {
+    "file": "assets/5179798-cat_motorcycle_product_type_luggage-2-3-367-6dceb2e8.jpg",
+    "src": "resources/img/product_type/5179798-cat_motorcycle_product_type_luggage-2-3-367.jpg"
+  },
+  "resources/img/product_type/5179810-cat_motorcycle_product_type_rider_wear-2-3-367.jpg": {
+    "file": "assets/5179810-cat_motorcycle_product_type_rider_wear-2-3-367-6ff60b34.jpg",
+    "src": "resources/img/product_type/5179810-cat_motorcycle_product_type_rider_wear-2-3-367.jpg"
+  },
+  "resources/img/product_type/5179907-cat_motorcycle_product_type_security-2-3-367.jpg": {
+    "file": "assets/5179907-cat_motorcycle_product_type_security-2-3-367-db625e89.jpg",
+    "src": "resources/img/product_type/5179907-cat_motorcycle_product_type_security-2-3-367.jpg"
+  },
+  "resources/img/product_type/5179914-cat_motorcycle_product_type_tracker-2-3-367.jpg": {
+    "file": "assets/5179914-cat_motorcycle_product_type_tracker-2-3-367-8bb037e7.jpg",
+    "src": "resources/img/product_type/5179914-cat_motorcycle_product_type_tracker-2-3-367.jpg"
+  },
+  "resources/img/rider-wear/5179811-cat_motorcycle_product_type_rider_wear_alpinestars-2-3-367.jpg": {
+    "file": "assets/alpinestars-666dcc95.jpg",
+    "src": "resources/img/rider-wear/5179811-cat_motorcycle_product_type_rider_wear_alpinestars-2-3-367.jpg"
+  },
+  "resources/img/rider-wear/5179828-cat_motorcycle_product_type_rider_wear_armr-2-3-367.jpg": {
+    "file": "assets/arm-28c043cb.jpg",
+    "src": "resources/img/rider-wear/5179828-cat_motorcycle_product_type_rider_wear_armr-2-3-367.jpg"
+  },
+  "resources/img/rider-wear/5179844-cat_motorcycle_product_type_rider_wear_bullit-2-3-367.jpg": {
+    "file": "assets/bullit-8a2fd552.jpg",
+    "src": "resources/img/rider-wear/5179844-cat_motorcycle_product_type_rider_wear_bullit-2-3-367.jpg"
+  },
+  "resources/img/rider-wear/5179872-cat_motorcycle_product_type_rider_wear_dojo-2-3-367.jpg": {
+    "file": "assets/dojo-83767315.jpg",
+    "src": "resources/img/rider-wear/5179872-cat_motorcycle_product_type_rider_wear_dojo-2-3-367.jpg"
+  },
+  "resources/img/rider-wear/5179887-cat_motorcycle_product_type_rider_wear_oxford-2-3-367.jpg": {
+    "file": "assets/oxford-776db42e.jpg",
+    "src": "resources/img/rider-wear/5179887-cat_motorcycle_product_type_rider_wear_oxford-2-3-367.jpg"
+  },
+  "resources/img/rider-wear/5179905-cat_motorcycle_product_type_rider_wear_spartan-2-3-367.jpg": {
+    "file": "assets/spartan-5ecb8c9f.jpg",
+    "src": "resources/img/rider-wear/5179905-cat_motorcycle_product_type_rider_wear_spartan-2-3-367.jpg"
+  },
+  "resources/img/security/5179908-cat_motorcycle_product_type_security_anchors-2-3-367.jpg": {
+    "file": "assets/5179908-cat_motorcycle_product_type_security_anchors-2-3-367-2014e214.jpg",
+    "src": "resources/img/security/5179908-cat_motorcycle_product_type_security_anchors-2-3-367.jpg"
+  },
+  "resources/img/security/5179909-cat_motorcycle_product_type_security_cable_locks-2-3-367.jpg": {
+    "file": "assets/5179909-cat_motorcycle_product_type_security_cable_locks-2-3-367-5726f838.jpg",
+    "src": "resources/img/security/5179909-cat_motorcycle_product_type_security_cable_locks-2-3-367.jpg"
+  },
+  "resources/img/security/5179910-cat_motorcycle_product_type_security_chain_locks_and_chains-2-3-367.jpg": {
+    "file": "assets/5179910-cat_motorcycle_product_type_security_chain_locks_and_chains-2-3-367-5ca607ea.jpg",
+    "src": "resources/img/security/5179910-cat_motorcycle_product_type_security_chain_locks_and_chains-2-3-367.jpg"
+  },
+  "resources/img/security/5179911-cat_motorcycle_product_type_security_disc_locks_and_padlocks-2-3-367.jpg": {
+    "file": "assets/5179911-cat_motorcycle_product_type_security_disc_locks_and_padlocks-2-3-367-5279bf8e.jpg",
+    "src": "resources/img/security/5179911-cat_motorcycle_product_type_security_disc_locks_and_padlocks-2-3-367.jpg"
+  },
+  "resources/img/security/5179912-cat_motorcycle_product_type_security_lever_locks-2-3-367.jpg": {
+    "file": "assets/5179912-cat_motorcycle_product_type_security_lever_locks-2-3-367-f3854720.jpg",
+    "src": "resources/img/security/5179912-cat_motorcycle_product_type_security_lever_locks-2-3-367.jpg"
+  },
+  "resources/img/security/5179913-cat_motorcycle_product_type_security_u_locks-2-3-367.jpg": {
+    "file": "assets/5179913-cat_motorcycle_product_type_security_u_locks-2-3-367-9afe5c21.jpg",
+    "src": "resources/img/security/5179913-cat_motorcycle_product_type_security_u_locks-2-3-367.jpg"
+  },
+  "resources/img/shop_01.jpg": {
+    "file": "assets/shop_01-77f97178.jpg",
+    "src": "resources/img/shop_01.jpg"
+  },
+  "resources/img/shop_02.jpg": {
+    "file": "assets/shop_02-1192d4f7.jpg",
+    "src": "resources/img/shop_02.jpg"
+  },
+  "resources/img/shop_03.jpg": {
+    "file": "assets/shop_03-3bf88d8e.jpg",
+    "src": "resources/img/shop_03.jpg"
+  },
+  "resources/img/shop_04.jpg": {
+    "file": "assets/shop_04-d9199837.jpg",
+    "src": "resources/img/shop_04.jpg"
+  },
+  "resources/img/shop_05.jpg": {
+    "file": "assets/shop_05-57f5ba63.jpg",
+    "src": "resources/img/shop_05.jpg"
+  },
+  "resources/img/shop_06.jpg": {
+    "file": "assets/shop_06-41d6984f.jpg",
+    "src": "resources/img/shop_06.jpg"
+  },
+  "resources/img/shop_07.jpg": {
+    "file": "assets/shop_07-74a580e6.jpg",
+    "src": "resources/img/shop_07.jpg"
+  },
+  "resources/img/shop_08.jpg": {
+    "file": "assets/shop_08-33d6c9e5.jpg",
+    "src": "resources/img/shop_08.jpg"
+  },
+  "resources/img/shop_09.jpg": {
+    "file": "assets/shop_09-7ef77010.jpg",
+    "src": "resources/img/shop_09.jpg"
+  },
+  "resources/img/shop_10.jpg": {
+    "file": "assets/shop_10-1c46ed72.jpg",
+    "src": "resources/img/shop_10.jpg"
+  },
+  "resources/img/shop_11.jpg": {
+    "file": "assets/shop_11-5cf53dcb.jpg",
+    "src": "resources/img/shop_11.jpg"
+  },
+  "resources/img/yamaha-t-max-500-maxi-scooter.jpg": {
+    "file": "assets/yamaha-t-max-500-maxi-scooter-b707907d.jpg",
+    "src": "resources/img/yamaha-t-max-500-maxi-scooter.jpg"
+  },
+  "resources/img/yamaha-tmax.jpg": {
+    "file": "assets/yamaha-tmax-15ad5d7c.jpg",
+    "src": "resources/img/yamaha-tmax.jpg"
+  },
+  "resources/img/yamaha-x-max-500-maxi-scooter.jpg": {
+    "file": "assets/yamaha-x-max-500-maxi-scooter-978edd86.jpg",
+    "src": "resources/img/yamaha-x-max-500-maxi-scooter.jpg"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-538b603c.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-538b603c.css"
+    ],
+    "file": "assets/app-87bdef62.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
