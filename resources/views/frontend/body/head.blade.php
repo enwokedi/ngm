@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
     <!-- Bootstrap  -->
-    <link rel="stylesheet" type="text/css" href="frontend/stylesheets/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="{{url('frontend/stylesheets/bootstrap.css')}}">
 
     <!-- Theme Style -->
     <link rel="stylesheet" type="text/css" href="frontend/stylesheets/style.css">
@@ -21,6 +21,9 @@
 
     <!-- Animation Style -->
     <link rel="stylesheet" type="text/css" href="frontend/stylesheets/animate.css">
+
+    <!-- Accordion Menu -->
+    <!-- <link rel="stylesheet" type="text/css" href="{{url('accordion-menu/css/jquery-accordion-menu.css')}}"> -->
 
 
     <!-- Favicon and touch icons  -->

@@ -9,12 +9,12 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="page-title-heading">
-                    <h1 class="title">Products</h1>
+                    <h1 class="title">@yield('title')</h1>
                 </div><!-- /.page-title-heading -->
                 <div class="breadcrumbs">
                     <ul>
                         <li><a href="/">Honda & Yamaha Specialists</a></li>
-                        <li><a href="/product-types">Product Types</a></li>
+                        <li><a href="/product-types">@yield('title')</a></li>
                     </ul>
                 </div><!-- /.breadcrumbs -->
             </div><!-- /.col-md-12 -->
@@ -119,7 +119,7 @@
             <li class="product-item new">
                 <div class="product-thumb clearfix">
                     <a href="/accessories">
-                        <img src="{{asset('storage/assets-shop/product-types/5179734-cat_motorcycle_product_type_accessories-2-3-367.jpg')}}" alt="image">
+                        <!-- <img src="{{asset('storage/assets-shop/product-types/5179734-cat_motorcycle_product_type_accessories-2-3-367.jpg')}}" alt="image"> -->
                     </a>
                 </div>
                 <div class="product-info clearfix">
