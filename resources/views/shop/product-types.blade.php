@@ -1,6 +1,6 @@
 @extends('frontend.main_master')
 
-@section('title', 'Product Types')
+@section('title', 'Products')
 
 @section('content')
 <!-- Page title -->
@@ -22,7 +22,7 @@
     </div><!-- /.container -->
 </div><!-- /.page-title -->
 
-@include('frontend.body.sidebar')
+@include('frontend.body.shop-slidebar')
 
 <div class="col-md-9">
     <div class="filter-shop clearfix">

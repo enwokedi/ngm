@@ -114,7 +114,7 @@
                         <li class="product-item hscooters">
                             <div class="product-thumb clearfix">
                                 <a href="/rentals-honda-pcx-125">
-                                    <img src="{{Vite::asset('resources/images/rentals/honda-pcx-125.jpg')}}" alt="image">
+                                    <img src="{{url('assets/images/rentals/honda-pcx-125.jpg')}}" alt="image">
                                 </a>
                             </div>
                             <div class="product-info clearfix">
@@ -134,7 +134,7 @@
                         <li class="product-item ybikes">
                             <div class="product-thumb clearfix">
                                 <a href="#">
-                                    <img src="{{Vite::asset('resources/images/rentals/2022-Yamaha-YZF1000R1-EU-Icon_Blue-Studio-001-03.jpg')}}" alt="image">
+                                    <img src="{{url('assets/images/rentals/2022-Yamaha-YZF1000R1-EU-Icon_Blue-Studio-001-03.jpg')}}" alt="image">
                                 </a>
                             </div>
                             <div class="product-info clearfix">
@@ -154,7 +154,7 @@
                         <li class="product-item hscooters">
                             <div class="product-thumb clearfix">
                                 <a href="/rental-honda-pcx-125">
-                                    <img src="{{Vite::asset('resources/images/rentals/honda-pcx-125.jpg')}}" alt="image">
+                                    <img src="{{url('assets/images/rentals/honda-pcx-125.jpg')}}" alt="image">
                                 </a>
                             </div>
                             <div class="product-info clearfix">
@@ -174,7 +174,7 @@
                         <li class="product-item ybikes">
                             <div class="product-thumb clearfix">
                                 <a href="#" class="product-thumb">
-                                    <img src="{{Vite::asset('resources/images/rentals/2022-Yamaha-YZF1000R1-EU-Yamaha_Black-Studio-001-03.jpg')}}" alt="image">
+                                    <img src="{{url('assets/images/rentals/2022-Yamaha-YZF1000R1-EU-Yamaha_Black-Studio-001-03.jpg')}}" alt="image">
                                 </a>
                             </div>
                             <div class="product-info clearfix">
@@ -194,7 +194,7 @@
                         <li class="product-item ybikes">
                             <div class="product-thumb clearfix">
                                 <a href="#" class="product-thumb">
-                                    <img src="{{Vite::asset('resources/images/rentals/2023-Yamaha-MT125-EU-Icon_Blue_-Studio-001-03.jpg')}}" alt="image">
+                                    <img src="{{url('assets/images/rentals/2023-Yamaha-MT125-EU-Icon_Blue_-Studio-001-03.jpg')}}" alt="image">
                                 </a>
                             </div>
                             <div class="product-info clearfix">
@@ -214,7 +214,7 @@
                         <li class="product-item hbikes">
                             <div class="product-thumb clearfix">
                                 <a href="#" class="product-thumb">
-                                    <img src="{{Vite::asset('resources/images/rentals/honda-nc-750x.jpg')}}" alt="image">
+                                    <img src="{{url('assets/images/rentals/honda-nc-750x.jpg')}}" alt="image">
                                 </a>
                             </div>
                             <div class="product-info clearfix">
@@ -234,7 +234,7 @@
                         <li class="product-item yscooters">
                             <div class="product-thumb clearfix">
                                 <a href="#" class="product-thumb">
-                                    <img src="{{Vite::asset('resources/images/rentals/2023-Yamaha-G125YM-EU-Milky_White-Studio-001-03.jpg')}}" alt="image">
+                                    <img src="{{url('assets/images/rentals/2023-Yamaha-G125YM-EU-Milky_White-Studio-001-03.jpg')}}" alt="image">
                                 </a>
                             </div>
                             <div class="product-info clearfix">
@@ -254,7 +254,7 @@
                         <li class="product-item hbikes">
                             <div class="product-thumb clearfix">
                                 <a href="#" class="product-thumb">
-                                    <img src="{{Vite::asset('resources/images/rentals/honda-nc-750x.jpg')}}" alt="image">
+                                    <img src="{{url('assets/images/rentals/honda-nc-750x.jpg')}}" alt="image">
                                 </a>
                             </div>
                             <div class="product-info clearfix">
@@ -274,7 +274,7 @@
                         <li class="product-item hbikes">
                             <div class="product-thumb clearfix">
                                 <a href="#" class="product-thumb">
-                                    <img src="{{Vite::asset('resources/images/rentals/honda-africa-twin-1100.jpg')}}" alt="image">
+                                    <img src="{{url('assets/images/rentals/honda-africa-twin-1100.jpg')}}" alt="image">
                                 </a>
                             </div>
                             <div class="product-info clearfix">
@@ -294,7 +294,7 @@
                         <li class="product-item yscooters">
                             <div class="product-thumb clearfix">
                                 <a href="#" class="product-thumb">
-                                    <img src="{{Vite::asset('resources/images/rentals/2023-Yamaha-G125YM-EU-Ruby_Red-Studio-001-03.jpg')}}" alt="image">
+                                    <img src="{{url('assets/images/rentals/2023-Yamaha-G125YM-EU-Ruby_Red-Studio-001-03.jpg')}}" alt="image">
                                 </a>
                             </div>
                             <div class="product-info clearfix">
@@ -314,7 +314,7 @@
                         <li class="product-item hbikes honda">
                             <div class="product-thumb clearfix">
                                 <a href="#" class="product-thumb">
-                                    <img src="{{Vite::asset('resources/images/rentals/honda-africa-twin-1100.jpg')}}" alt="image">
+                                    <img src="{{url('assets/images/rentals/honda-africa-twin-1100.jpg')}}" alt="image">
                                 </a>
                             </div>
                             <div class="product-info clearfix">
@@ -334,7 +334,7 @@
                         <li class="product-item yscooters">
                             <div class="product-thumb clearfix">
                                 <a href="#" class="product-thumb">
-                                    <img src="{{Vite::asset('resources/images/rentals/2023-Yamaha-G125YM-EU-Deep_Blue-Studio-001-03.jpg')}}" alt="image">
+                                    <img src="{{url('assets/images/rentals/2023-Yamaha-G125YM-EU-Deep_Blue-Studio-001-03.jpg')}}" alt="image">
                                 </a>
                             </div>
                             <div class="product-info clearfix">

@@ -30,28 +30,28 @@
                     <div class="inner">
                         <div class="flexslider style-1 has-relative">
                             <ul class="slides">
-                                <li data-thumb="{{ Vite::asset('resources/images/rentals/detail-thumb/2021-Honda-PCX125-Scooter-review-details-price-spec_101.jpg') }}">
-                                    <img src="{{ Vite::asset('resources/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_101.jpg') }}" alt="Image">
+                                <li data-thumb="{{url('assets/images/rentals/detail-thumb/2021-Honda-PCX125-Scooter-review-details-price-spec_101.jpg') }}">
+                                    <img src="{{url('assets/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_101.jpg') }}" alt="Image">
                                     <div class="flat-icon style-1">
-                                        <a href="{{ Vite::asset('resources/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_101.jpg') }}" class="zoom-popup"><span class="fa fa-search-plus"></span></a>
+                                        <a href="{{url('assets/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_101.jpg') }}" class="zoom-popup"><span class="fa fa-search-plus"></span></a>
                                     </div>
                                 </li>
-                                <li data-thumb="{{ Vite::asset('resources/images/rentals/detail-thumb/2021-Honda-PCX125-Scooter-review-details-price-spec_100.jpg') }}">
-                                    <img src="{{ Vite::asset('resources/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_100.jpg') }}" alt="Image">
+                                <li data-thumb="{{url('assets/images/rentals/detail-thumb/2021-Honda-PCX125-Scooter-review-details-price-spec_100.jpg') }}">
+                                    <img src="{{url('assets/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_100.jpg') }}" alt="Image">
                                     <div class="flat-icon style-1">
-                                        <a href="{{ Vite::asset('resources/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_100.jpg') }}" class="zoom-popup"><span class="fa fa-search-plus"></span></a>
+                                        <a href="{{url('assets/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_100.jpg') }}" class="zoom-popup"><span class="fa fa-search-plus"></span></a>
                                     </div>
                                 </li>
-                                <li data-thumb="{{ Vite::asset('resources/images/rentals/detail-thumb/2021-Honda-PCX125-Scooter-review-details-price-spec_102.jpg') }}">
-                                    <img src="{{ Vite::asset('resources/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_102.jpg') }}" alt="Image">
+                                <li data-thumb="{{url('assets/images/rentals/detail-thumb/2021-Honda-PCX125-Scooter-review-details-price-spec_102.jpg') }}">
+                                    <img src="{{url('assets/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_102.jpg') }}" alt="Image">
                                     <div class="flat-icon style-1">
-                                        <a href="{{ Vite::asset('resources/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_102.jpg') }}" class="zoom-popup"><span class="fa fa-search-plus"></span></a>
+                                        <a href="{{url('assets/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_102.jpg') }}" class="zoom-popup"><span class="fa fa-search-plus"></span></a>
                                     </div>
                                 </li>
-                                <li data-thumb="{{ Vite::asset('resources/images/rentals/detail-thumb/2021-Honda-PCX125-Scooter-review-details-price-spec_103.jpg') }}">
-                                    <img src="{{ Vite::asset('resources/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_103.jpg') }}" alt="Image">
+                                <li data-thumb="{{url('assets/images/rentals/detail-thumb/2021-Honda-PCX125-Scooter-review-details-price-spec_103.jpg') }}">
+                                    <img src="{{url('assets/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_103.jpg') }}" alt="Image">
                                     <div class="flat-icon style-1">
-                                        <a href="{{ Vite::asset('resources/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_103.jpg') }}" class="zoom-popup"><span class="fa fa-search-plus"></span></a>
+                                        <a href="{{url('assets/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_103.jpg') }}" class="zoom-popup"><span class="fa fa-search-plus"></span></a>
                                     </div>
                                 </li>
                             </ul>
@@ -158,7 +158,7 @@
                                     <div class="grid-row image-left clearfix">
                                         <div class="grid-item">
                                             <div class="thumb text-center">
-                                                <img src="{{ Vite::asset('resources/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_101.jpg') }}" alt="Image">
+                                                <img src="{{url('assets/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_101.jpg') }}" alt="Image">
                                             </div>
                                         </div><!-- /.grid-item -->
                                         <div class="grid-item">
@@ -178,7 +178,7 @@
                                         </div>
                                         <div class="grid-item">
                                             <div class="thumb text-center">
-                                                <img src="{{ Vite::asset('resources/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_100.jpg') }}" alt="Image">
+                                                <img src="{{url('assets/images/rentals/2021-Honda-PCX125-Scooter-review-details-price-spec_100.jpg') }}" alt="Image">
                                             </div>
                                         </div><!-- /.grid-item -->
                                     </div><!-- /.grid-row -->

@@ -11,8 +11,8 @@
             <header id="header" class="header clearfix">
 
                 <!-- Start Top Nav -->
-                <nav class="navbar navbar-expand bg-dark navbar-light d-none d-lg-block">
-                    <div class="container text-light">
+                <nav class="navbar navbar-expand navbar-dark bg-dark d-none d-lg-block">
+                    <div class="container">
                         <div class="w-100 d-flex justify-content-between">
                             <div>
                                 <i class="fa fa-envelope mx-2"></i>
@@ -36,7 +36,7 @@
                 <div class="container-fluid container-width-93 clearfix" id="site-header-inner">
                     <div id="logo" class="logo float-left">
                         <a href="/" title="logo">
-                            <img src="{{Vite::asset('resources/images/logo.png')}}" alt="image" width="54" height="12" data-retina="{{Vite::asset('resources/logo@2x.png')}}" data-width="54" data-height="12">
+                            <img src="{{Vite::asset('resources/images/logo.png')}}" alt="image" width="54" height="12" data-retina="{{Vite::asset('resources/resources/logo@2x.png')}}" data-width="54" data-height="12">
                         </a>
                     </div><!-- /.logo -->
                     <div class="mobile-button"><span></span></div>

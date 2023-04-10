@@ -61,7 +61,7 @@
                         <li class="product-item new">
                             <div class="product-thumb clearfix">
                                 <a href="#">
-                                    <img src="{{Vite::asset('resources/images/rentals/2022-Yamaha-YZF1000R1-EU-Yamaha_Black-Studio-001-03.jpg')}}" alt="image">
+                                    <img src="{{url('assets/images/rentals/2022-Yamaha-YZF1000R1-EU-Yamaha_Black-Studio-001-03.jpg')}}" alt="image">
                                 </a>
                                 <span class="new">New</span>
                             </div>
@@ -82,7 +82,7 @@
                         <li class="product-item">
                             <div class="product-thumb clearfix">
                                 <a href="#" class="product-thumb">
-                                    <img src="{{Vite::asset('resources/images/rentals/2023-Yamaha-MT125-EU-Icon_Blue_-Studio-001-03.jpg')}}" alt="image">
+                                    <img src="{{url('assets/images/rentals/2023-Yamaha-MT125-EU-Icon_Blue_-Studio-001-03.jpg')}}" alt="image">
                                 </a>
                             </div>
                             <div class="product-info clearfix">
@@ -102,7 +102,7 @@
                         <li class="product-item">
                             <div class="product-thumb clearfix">
                                 <a href="#">
-                                    <img src="{{Vite::asset('resources/images/rentals/2023-Yamaha-G125YM-EU-Ruby_Red-Studio-001-03.jpg')}}" alt="image">
+                                    <img src="{{url('assets/images/rentals/2023-Yamaha-G125YM-EU-Ruby_Red-Studio-001-03.jpg')}}" alt="image">
                                 </a>
                                 <span class="new">New</span>
                             </div>
@@ -123,7 +123,7 @@
                         <li class="product-item">
                             <div class="product-thumb clearfix">
                                 <a href="#" class="product-thumb">
-                                    <img src="{{Vite::asset('resources/images/rentals/2023-Yamaha-G125YM-EU-Milky_White-Studio-001-03.jpg')}}" alt="image">
+                                    <img src="{{url('assets/images/rentals/2023-Yamaha-G125YM-EU-Milky_White-Studio-001-03.jpg')}}" alt="image">
                                 </a>
                                 <span class="new sale">Sale</span>
                             </div>
@@ -144,7 +144,7 @@
                         <li class="product-item">
                             <div class="product-thumb clearfix">
                                 <a href="#" class="product-thumb">
-                                    <img src="{{Vite::asset('resources/images/rentals/2023-Yamaha-G125YM-EU-Deep_Blue-Studio-001-03.jpg')}}" alt="image">
+                                    <img src="{{url('assets/images/rentals/2023-Yamaha-G125YM-EU-Deep_Blue-Studio-001-03.jpg')}}" alt="image">
                                 </a>
                             </div>
                             <div class="product-info clearfix">
@@ -164,7 +164,7 @@
                         <li class="product-item">
                             <div class="product-thumb clearfix">
                                 <a href="#" class="product-thumb">
-                                    <img src="{{Vite::asset('resources/images/rentals/2023-Yamaha-G125YM-EU-Milky_White-Studio-001-03.jpg')}}" alt="image">
+                                    <img src="{{url('assets/images/rentals/2023-Yamaha-G125YM-EU-Milky_White-Studio-001-03.jpg')}}" alt="image">
                                 </a>
                                 <span class="new sale">Sale</span>
                             </div>
@@ -186,7 +186,7 @@
                         <li class="product-item">
                             <div class="product-thumb clearfix">
                                 <a href="#" class="product-thumb">
-                                    <img src="{{Vite::asset('resources/images/rentals/2022-Yamaha-YZF1000R1-EU-Icon_Blue-Studio-001-03.jpg')}}" alt="image">
+                                    <img src="{{url('assets/images/rentals/2022-Yamaha-YZF1000R1-EU-Icon_Blue-Studio-001-03.jpg')}}" alt="image">
                                 </a>
                                 <span class="new sale">Sale</span>
                             </div>
@@ -207,7 +207,7 @@
                         <li class="product-item">
                             <div class="product-thumb clearfix">
                                 <a href="#" class="product-thumb">
-                                    <img src="{{Vite::asset('resources/images/rentals/2023-Yamaha-G125YM-EU-Ruby_Red-Studio-001-03.jpg')}}" alt="image">
+                                    <img src="{{url('assets/images/rentals/2023-Yamaha-G125YM-EU-Ruby_Red-Studio-001-03.jpg')}}" alt="image">
                                 </a>
                             </div>
                             <div class="product-info clearfix">
@@ -227,7 +227,7 @@
                         <li class="product-item">
                             <div class="product-thumb clearfix">
                                 <a href="#" class="product-thumb">
-                                    <img src="{{Vite::asset('resources/images/rentals/2023-Yamaha-G125YM-EU-Deep_Blue-Studio-001-03.jpg')}}" alt="image">
+                                    <img src="{{url('assets/images/rentals/2023-Yamaha-G125YM-EU-Deep_Blue-Studio-001-03.jpg')}}" alt="image">
                                 </a>
                                 <span class="new sale">Sale</span>
                             </div>

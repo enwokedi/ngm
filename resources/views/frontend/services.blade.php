@@ -30,7 +30,7 @@
                         <div class="grid-row image-left clearfix">
                             <div class="grid-item">
                                 <div class="thumb text-center">
-                                    <img src="{{ asset('frontend/images/services/repairs.jpg') }}" alt="Image">
+                                    <img src="{{ url('assets/images/services/repairs.jpg') }}" alt="Image">
                                 </div>
                             </div><!-- /.grid-item -->
                             <div class="grid-item">
@@ -56,7 +56,7 @@
                             </div>
                             <div class="grid-item">
                                 <div class="thumb text-center">
-                                    <img src="{{ asset('frontend/images/services/book-service.jpg') }}" alt="Image">
+                                    <img src="{{url('assets/images/services/book-service.jpg') }}" alt="Image">
                                 </div>
                             </div><!-- /.grid-item -->
                         </div><!-- /.grid-row -->
@@ -64,7 +64,7 @@
                         <div class="grid-row image-left padding-bottom-48 clearfix">
                             <div class="grid-item">
                                 <div class="thumb text-center">
-                                    <img src="{{ asset('frontend/images/services/book-mot.png') }}" alt="Image">
+                                    <img src="{{url('assets/images/services/book-mot.png') }}" alt="Image">
                                 </div>
                             </div><!-- /.grid-item -->
                             <div class="grid-item">
@@ -90,7 +90,7 @@
                             </div>
                             <div class="grid-item">
                                 <div class="thumb text-center">
-                                    <img src="{{ asset('frontend/images/services/accident.jpg') }}" alt="Image">
+                                    <img src="{{url('assets/images/services/accident.jpg') }}" alt="Image">
                                 </div>
                             </div><!-- /.grid-item -->
                         </div><!-- /.grid-row -->
