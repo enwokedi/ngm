@@ -11,7 +11,7 @@
             <header id="header" class="header clearfix">
 
                 <!-- Start Top Nav -->
-                <nav class="navbar navbar-expand bg-dark navbar-light d-none d-lg-block" id="templatemo_nav_top">
+                <nav class="navbar navbar-expand bg-dark navbar-light d-none d-lg-block">
                     <div class="container text-light">
                         <div class="w-100 d-flex justify-content-between">
                             <div>
